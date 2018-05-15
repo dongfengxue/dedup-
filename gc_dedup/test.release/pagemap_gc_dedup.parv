@@ -1,0 +1,225 @@
+disksim_global Global { 
+   Init Seed = 42,       #初始化种子
+   Real Seed = 42,
+   Stat definition file = statdefs
+}
+
+disksim_stats Stats {
+iodriver stats = disksim_iodriver_stats {
+ Print driver size stats = 1,
+ Print driver locality stats = 1,
+ Print driver blocking stats = 1,
+ Print driver interference stats = 1,
+ Print driver queue stats = 1,
+ Print driver crit stats = 1,
+ Print driver idle stats = 1,
+ Print driver intarr stats = 1,
+ Print driver streak stats = 1,
+ Print driver stamp stats = 1,
+ Print driver per-device stats = 1 },
+bus stats = disksim_bus_stats {
+ Print bus idle stats = 1,
+ Print bus arbwait stats = 1 },
+ctlr stats = disksim_ctlr_stats {
+ Print controller cache stats = 1,
+ Print controller size stats = 1,
+ Print controller locality stats = 1,
+ Print controller blocking stats = 1,
+ Print controller interference stats = 1,
+ Print controller queue stats = 1,
+ Print controller crit stats = 1,
+ Print controller idle stats = 1,
+ Print controller intarr stats = 1,
+ Print controller streak stats = 1,
+ Print controller stamp stats = 1,
+ Print controller per-device stats = 1 },
+device stats = disksim_device_stats {
+ Print device queue stats = 1, 
+ Print device crit stats = 1,
+ Print device idle stats = 1,
+ Print device intarr stats = 1,
+ Print device size stats = 1,
+ Print device seek stats = 1,
+ Print device latency stats = 1,
+ Print device xfer stats = 1,
+ Print device acctime stats = 1,
+ Print device interfere stats = 1,
+ Print device buffer stats = 1 },
+process flow stats = disksim_pf_stats {
+ Print per-process stats =  1,
+ Print per-CPU stats =  1,
+ Print all interrupt stats =  1,
+ Print sleep stats = 1
+}
+} # end of stats block
+
+
+# no iomaps
+
+disksim_iodriver DRIVER0 {
+  type = 1,             				#这是为了扩展性目的而包含的
+  Constant access time = 0.0,	#0:0表明仿真应根据存储子系统的变化状态，适当地计算所有访问和队列时间。
+  Scheduler = disksim_ioqueue {
+   Scheduling policy = 3,		#请求调度算法，FCFS，SSTF
+   Cylinder mapping strategy = 1,		#1表示调度程序，可以访问每个扇区，即每个扇区中磁道的数量
+   Write initiation delay = 0.0,		#写请求定位延迟
+   Read initiation delay = 0.0,			#读请求定位延迟
+   Sequential stream scheme = 0,		#0表示不管顺序请求是否在一起
+   Maximum concat size = 0,				#串行请求产生的最大请求大小
+   Overlapping request scheme = 0,		#0表示重叠请求被视为独立
+   Sequential stream diff maximum = 0,	#两个连续请求之间最大的距离
+   Scheduling timeout scheme = 0,		#多队列超时计划，0表示请求未被移动
+   Timeout time/weight = 3,			#指定排队延迟或时间/老化因子的超时值（秒）
+   Timeout scheduling = 3,				#下一个请求的调度算法
+   Scheduling priority scheme = 1,		#标记请求优先级
+   Priority scheduling = 3				#优先级调度算法
+  }, # end of Scheduler
+#  Use queueing in subsystem = 0
+  Use queueing in subsystem =1   #是否允许多个请求在子系统
+} # end of DRV0 spec
+
+disksim_bus BUS0 {
+  type = 2,                          #2表示共享总线
+  Arbitration type = 1,				#1表示基于时隙的优先级（例如，SCSI总线），其中附件的顺序决定优先级，2表示先来先服务
+  Arbitration time = 0.0,		#毫秒为单位，指定仲裁决定所需的时间
+  Read block transfer time = 0.0,  #传输512B的时间（毫秒）
+  Write block transfer time = 0.0,
+  Print stats =  0					#是否打印收集的统计数据
+} # end of BUS0 spec
+
+disksim_bus BUS1 {
+  type = 1,						#1表示终身总线
+  Arbitration type = 1,
+  Arbitration time = 0.0,
+  Read block transfer time = 0.005,
+  Write block transfer time = 0.005,
+  Print stats =  1
+} # end of BUS1 spec
+
+disksim_ctlr CTLR0 {
+  type = 1,							#1表示简单控制，桥的作用
+  Scale for delays = 0.0,			 #延迟因子
+  Bulk sector transfer time = 0.015,		#传输512B通过控制器的时间（毫秒）
+  Maximum queue length = 10000,		#指定了可以在控制器上同时请求的最大数量
+  Print stats =  1,						#是否报告统计数据
+Scheduler = disksim_ioqueue {           
+     Scheduling policy = 3,				#调度算法3
+     Cylinder mapping strategy = 1,		#1表示调度程序，可以访问每个扇区，即每个扇区中磁道的数量
+     Write initiation delay = 0.0,		#写请求定位延迟
+     Read initiation delay = 0.0,		#读请求定位延迟
+     Sequential stream scheme = 3,		#3表示顺序写入请求总是排在一起
+     #Maximum concat size = 128,		#串行请求产生的最大请求大小
+     Maximum concat size = 0,
+     Overlapping request scheme = 0,	#0表示重叠请求被视为独立
+     Sequential stream diff maximum = 0,	#两个连续请求之间最大的距离
+     Scheduling timeout scheme = 0,		#多队列超时计划，0表示请求未被移动
+     Timeout time/weight = 6,			#指定排队延迟或时间/老化因子的超时值（秒）
+     Timeout scheduling = 4,			#下一个请求的调度算法
+     Scheduling priority scheme = 0,    #标记请求优先级
+     Priority scheduling = 4			#优先级调度算法
+}  # end of ioqueue spec 
+} # end of CTLR0 spec
+
+disksim_simpleflash SD0 {
+     Block count =10485760,# 10485760,    # 20971520, #2097152, # 1GB        
+     Extra Block count = 1048576,#2621440,#524288,#65536, #65536, # 3% of 1GB   25%冗余
+     FTL type = 1,              # pagemap
+     Bus transaction latency =  0.0,
+     Bulk sector transfer time =  0.0,
+     Never disconnect =  0,
+     Print stats =  1,
+     Max queue length =  1,
+     Scheduler = disksim_ioqueue {
+       Scheduling policy =  1,
+       Cylinder mapping strategy =  0,
+       Write initiation delay =  0.0,
+       Read initiation delay =  0.0,
+       Sequential stream scheme =  0,
+       Maximum concat size =  0,
+       Overlapping request scheme =  0,
+       Sequential stream diff maximum =  0,
+       Scheduling timeout scheme =  0,
+       Timeout time/weight =  0,
+       Timeout scheduling =  0,
+       Scheduling priority scheme =  0,
+       Priority scheduling =  0 
+     }
+}  # end of SD0 spec
+
+# component instantiation
+instantiate [ statfoo ] as Stats
+instantiate [ ctlr0 ] as CTLR0
+instantiate [ bus0 ] as BUS0
+instantiate [ sd0 ]     as  SD0
+instantiate [ driver0 ] as DRIVER0
+instantiate [ bus1 ] as BUS1
+# end of component instantiation
+
+#iosim IS {
+#     I/O Trace Time Scale = 1.0
+#}  # end of iosim spec
+
+# system topology
+topology disksim_iodriver driver0 [
+     disksim_bus bus0 [ 
+          disksim_ctlr ctlr0 [ 
+               disksim_bus bus1 [ 
+                    disksim_simpleflash sd0 []
+                    # end of bus1
+               ]
+               # end of ctlr0
+          ]
+          # end of bus0 
+      ]
+      # end of system topology
+]
+
+disksim_logorg org0 {
+   Addressing mode = Array,             #array表示单一逻辑设备号
+   Distribution scheme = Striped,      #数据分发方案，stripe，random，ideal
+   Redundancy scheme = Noredun,        #冗余方案，noredun，shadowed，parity，parity rotated
+   devices = [ sd0 ], 					#逻辑组织中的设备名称
+   Stripe unit  =  512,					#条带单元大小
+   Synch writes for safety =  0,		#是否奇偶保护写
+   Number of copies =  2,				#每个数据磁盘的拷贝数
+   Copy choice on read =  6,			#阴影副本选择磁盘策略，shadow未选择，忽略此参数
+   RMW vs. reconstruct =  0.5,			#断点选择read-modify-write更新，parity未选择忽略此参数
+   Parity stripe unit =  8,				#奇偶旋转冗余方案条形大小，必须为倍数关系
+   Parity rotation type =  1,			#如何奇偶校验，1表示left-symmetric，parity rotate未选择，忽略
+   Time stamp interval =  0.000000,		#时间戳之间的间隔，0:0表示禁用此时间戳
+   Time stamp start time =  60000.000000,  #模拟开始时间
+   Time stamp stop time =  10000000000.000000,	#模拟结束时间
+   Time stamp file name =  stamps		#日志输出文件名，0或者空表示禁用
+} # end of logorg org0 spec
+
+
+disksim_pf Proc {
+   Number of processors =  1, 			#处理器数量
+   Process-Flow Time Scale =  1.0		#模拟计算时间的乘法因子
+} # end of process flow spec
+
+disksim_synthio Synthio {
+  Number of I/O requests to generate =  1000000,     #合成请求的数量
+   Maximum time of trace generated  =  5000000.0,	 #模拟结束之前生成的最大I/O请求	
+   System call/return with each request =  0,		#每个请求是否发生在系统调用的上下文中
+   Think time from call to request =  0.0,			#系统调用和磁盘请求之间的时间，上面参数为1生效
+   Think time from request to return =  0.0,		#系统调用返回磁盘请求之间的时间，上面参数为1生效
+Generators = [
+disksim_synthgen { # generator 0 
+   Storage capacity per device  =  204800,    #100MB  #指定每个存储设备的存储容量
+   devices = [ org0 ], 								#生成器可访问的存储设备集
+   Blocking factor =  4,							#访问单元大小，请求起始地址和大小都是该值的倍数
+   Probability of sequential access = 1.0,			#指定生成的请求是连续地址的概率
+   Probability of local access = 0.0,				#生成的请求是“local”的概率，local由随机变量描述
+   Probability of read access = 0.0,				#读请求的概率
+   Probability of time-critical request = 0.0,		#时间关键请求概率，需要等待前一个请求完成
+   Probability of time-limited request =  0.0,		#时间限制请求，等待限制的的时间
+   Time-limited think times  = [ normal, 0.0, 0.0  ], #随机时间限制时间
+   General inter-arrival times  = [ exponential, 0.0, 200.0  ],   #生成请求地址是随机
+   Sequential inter-arrival times  = [ exponential, 0.0, 200.0  ], #生成请求地址是连续
+   Local inter-arrival times  = [ exponential, 0.0, 200.0  ],    #生成请求地址是 local
+   Local distances  = [ normal, 1.0, 0.0  ],			#判断为local的距离
+   Sizes  = [ normal, 4.0, 0.0  ]						#随机生成的请求大小
+} # end of generator 0 
+] # end of generator list 
+} # end of synthetic workload spec
