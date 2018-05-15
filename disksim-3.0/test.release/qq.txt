@@ -1,0 +1,3998 @@
+max_laddr 262144
+blk_num=1024
+warmFlash start
+warmFlash over
+send_flash_request start
+ppn=0
+非重复处理 ，插入新的hash节点
+start_blk_no=219040,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=1
+非重复处理 ，插入新的hash节点
+start_blk_no=219052,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=2
+非重复处理 ，插入新的hash节点
+start_blk_no=219064,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=3
+非重复处理 ，插入新的hash节点
+start_blk_no=219076,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=4
+非重复处理 ，插入新的hash节点
+start_blk_no=219088,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=5
+非重复处理 ，插入新的hash节点
+start_blk_no=219100,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=6
+非重复处理 ，插入新的hash节点
+start_blk_no=219112,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=7
+非重复处理 ，插入新的hash节点
+start_blk_no=219124,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=8
+非重复处理 ，插入新的hash节点
+start_blk_no=219136,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=9
+非重复处理 ，插入新的hash节点
+start_blk_no=219148,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=10
+非重复处理 ，插入新的hash节点
+start_blk_no=219160,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=11
+非重复处理 ，插入新的hash节点
+start_blk_no=219172,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=12
+非重复处理 ，插入新的hash节点
+start_blk_no=219184,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=13
+非重复处理 ，插入新的hash节点
+start_blk_no=219196,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=14
+非重复处理 ，插入新的hash节点
+start_blk_no=219208,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=15
+非重复处理 ，插入新的hash节点
+start_blk_no=219220,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=16
+非重复处理 ，插入新的hash节点
+start_blk_no=219232,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=17
+非重复处理 ，插入新的hash节点
+start_blk_no=219244,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=18
+非重复处理 ，插入新的hash节点
+start_blk_no=219256,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=19
+非重复处理 ，插入新的hash节点
+start_blk_no=219268,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=20
+非重复处理 ，插入新的hash节点
+start_blk_no=219280,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=21
+非重复处理 ，插入新的hash节点
+start_blk_no=219292,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=22
+非重复处理 ，插入新的hash节点
+start_blk_no=219304,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=23
+非重复处理 ，插入新的hash节点
+start_blk_no=219316,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=24
+非重复处理 ，插入新的hash节点
+start_blk_no=219328,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=25
+非重复处理 ，插入新的hash节点
+start_blk_no=219340,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=26
+非重复处理 ，插入新的hash节点
+start_blk_no=219352,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=27
+非重复处理 ，插入新的hash节点
+start_blk_no=219364,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=28
+非重复处理 ，插入新的hash节点
+start_blk_no=219376,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=29
+非重复处理 ，插入新的hash节点
+start_blk_no=219388,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=30
+非重复处理 ，插入新的hash节点
+start_blk_no=219400,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=31
+非重复处理 ，插入新的hash节点
+start_blk_no=219412,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=32
+非重复处理 ，插入新的hash节点
+start_blk_no=219424,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=33
+非重复处理 ，插入新的hash节点
+start_blk_no=219436,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=34
+非重复处理 ，插入新的hash节点
+start_blk_no=219448,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=35
+非重复处理 ，插入新的hash节点
+start_blk_no=219460,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=36
+非重复处理 ，插入新的hash节点
+start_blk_no=219472,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=37
+非重复处理 ，插入新的hash节点
+start_blk_no=219484,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=38
+非重复处理 ，插入新的hash节点
+start_blk_no=219496,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=39
+非重复处理 ，插入新的hash节点
+start_blk_no=219508,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=40
+非重复处理 ，插入新的hash节点
+start_blk_no=219520,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=41
+非重复处理 ，插入新的hash节点
+start_blk_no=219532,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=42
+非重复处理 ，插入新的hash节点
+start_blk_no=219544,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=43
+非重复处理 ，插入新的hash节点
+start_blk_no=219556,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=44
+非重复处理 ，插入新的hash节点
+start_blk_no=219568,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=45
+非重复处理 ，插入新的hash节点
+start_blk_no=219580,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=46
+非重复处理 ，插入新的hash节点
+start_blk_no=219592,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=47
+非重复处理 ，插入新的hash节点
+start_blk_no=219604,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=48
+非重复处理 ，插入新的hash节点
+start_blk_no=219616,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=49
+非重复处理 ，插入新的hash节点
+start_blk_no=219628,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50
+非重复处理 ，插入新的hash节点
+start_blk_no=219640,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=51
+非重复处理 ，插入新的hash节点
+start_blk_no=219652,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=52
+非重复处理 ，插入新的hash节点
+start_blk_no=219664,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=53
+非重复处理 ，插入新的hash节点
+start_blk_no=219676,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=54
+非重复处理 ，插入新的hash节点
+start_blk_no=219688,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=55
+非重复处理 ，插入新的hash节点
+start_blk_no=219700,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=56
+非重复处理 ，插入新的hash节点
+start_blk_no=219712,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=57
+非重复处理 ，插入新的hash节点
+start_blk_no=219724,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=58
+非重复处理 ，插入新的hash节点
+start_blk_no=219736,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=59
+非重复处理 ，插入新的hash节点
+start_blk_no=219748,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=60
+非重复处理 ，插入新的hash节点
+start_blk_no=219760,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=61
+非重复处理 ，插入新的hash节点
+start_blk_no=219772,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62
+非重复处理 ，插入新的hash节点
+start_blk_no=219784,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=63
+非重复处理 ，插入新的hash节点
+start_blk_no=219796,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=192
+非重复处理 ，插入新的hash节点
+start_blk_no=219808,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=193
+非重复处理 ，插入新的hash节点
+start_blk_no=219820,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=194
+非重复处理 ，插入新的hash节点
+start_blk_no=219832,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=195
+非重复处理 ，插入新的hash节点
+start_blk_no=219844,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=196
+非重复处理 ，插入新的hash节点
+start_blk_no=219856,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=197
+非重复处理 ，插入新的hash节点
+start_blk_no=219868,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=198
+非重复处理 ，插入新的hash节点
+start_blk_no=219880,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=199
+非重复处理 ，插入新的hash节点
+start_blk_no=219892,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=200
+非重复处理 ，插入新的hash节点
+start_blk_no=219904,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=201
+非重复处理 ，插入新的hash节点
+start_blk_no=219916,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=202
+非重复处理 ，插入新的hash节点
+start_blk_no=219928,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=203
+非重复处理 ，插入新的hash节点
+start_blk_no=219940,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=204
+非重复处理 ，插入新的hash节点
+start_blk_no=219952,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=205
+非重复处理 ，插入新的hash节点
+start_blk_no=219964,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=206
+非重复处理 ，插入新的hash节点
+start_blk_no=219976,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=207
+非重复处理 ，插入新的hash节点
+start_blk_no=219988,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=208
+非重复处理 ，插入新的hash节点
+start_blk_no=220000,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=209
+非重复处理 ，插入新的hash节点
+start_blk_no=220012,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=210
+非重复处理 ，插入新的hash节点
+start_blk_no=220024,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=211
+非重复处理 ，插入新的hash节点
+start_blk_no=220036,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=212
+非重复处理 ，插入新的hash节点
+start_blk_no=220048,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=213
+非重复处理 ，插入新的hash节点
+start_blk_no=220060,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=214
+非重复处理 ，插入新的hash节点
+start_blk_no=220072,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=215
+非重复处理 ，插入新的hash节点
+start_blk_no=220084,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=216
+非重复处理 ，插入新的hash节点
+start_blk_no=220096,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=217
+非重复处理 ，插入新的hash节点
+start_blk_no=220108,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=218
+非重复处理 ，插入新的hash节点
+start_blk_no=220120,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=219
+非重复处理 ，插入新的hash节点
+start_blk_no=220132,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=220
+非重复处理 ，插入新的hash节点
+start_blk_no=220144,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=221
+非重复处理 ，插入新的hash节点
+start_blk_no=220156,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=222
+非重复处理 ，插入新的hash节点
+start_blk_no=220168,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=223
+非重复处理 ，插入新的hash节点
+start_blk_no=220180,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=224
+非重复处理 ，插入新的hash节点
+start_blk_no=220192,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=225
+非重复处理 ，插入新的hash节点
+start_blk_no=220204,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=226
+非重复处理 ，插入新的hash节点
+start_blk_no=220216,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=227
+非重复处理 ，插入新的hash节点
+start_blk_no=220228,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=228
+非重复处理 ，插入新的hash节点
+start_blk_no=220240,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=229
+非重复处理 ，插入新的hash节点
+start_blk_no=220252,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=230
+非重复处理 ，插入新的hash节点
+start_blk_no=220264,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=231
+非重复处理 ，插入新的hash节点
+start_blk_no=220276,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=232
+非重复处理 ，插入新的hash节点
+start_blk_no=220288,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=233
+非重复处理 ，插入新的hash节点
+start_blk_no=220300,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=234
+非重复处理 ，插入新的hash节点
+start_blk_no=220312,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=235
+非重复处理 ，插入新的hash节点
+start_blk_no=220324,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=236
+非重复处理 ，插入新的hash节点
+start_blk_no=220336,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=237
+非重复处理 ，插入新的hash节点
+start_blk_no=220348,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=238
+非重复处理 ，插入新的hash节点
+start_blk_no=220360,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=239
+非重复处理 ，插入新的hash节点
+start_blk_no=220372,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=240
+非重复处理 ，插入新的hash节点
+start_blk_no=220384,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=241
+非重复处理 ，插入新的hash节点
+start_blk_no=220396,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=242
+非重复处理 ，插入新的hash节点
+start_blk_no=220408,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=243
+非重复处理 ，插入新的hash节点
+start_blk_no=220420,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=244
+非重复处理 ，插入新的hash节点
+start_blk_no=220432,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=245
+非重复处理 ，插入新的hash节点
+start_blk_no=220444,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=246
+非重复处理 ，插入新的hash节点
+start_blk_no=220456,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=247
+非重复处理 ，插入新的hash节点
+start_blk_no=220468,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=248
+非重复处理 ，插入新的hash节点
+start_blk_no=220480,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=249
+非重复处理 ，插入新的hash节点
+start_blk_no=220492,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=250
+非重复处理 ，插入新的hash节点
+start_blk_no=220504,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=251
+非重复处理 ，插入新的hash节点
+start_blk_no=220516,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=252
+非重复处理 ，插入新的hash节点
+start_blk_no=220528,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=253
+非重复处理 ，插入新的hash节点
+start_blk_no=220540,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=254
+非重复处理 ，插入新的hash节点
+start_blk_no=220552,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=255
+非重复处理 ，插入新的hash节点
+start_blk_no=220564,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=256
+非重复处理 ，插入新的hash节点
+start_blk_no=220576,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=257
+非重复处理 ，插入新的hash节点
+start_blk_no=220588,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=258
+非重复处理 ，插入新的hash节点
+start_blk_no=220600,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=259
+非重复处理 ，插入新的hash节点
+start_blk_no=220612,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=260
+非重复处理 ，插入新的hash节点
+start_blk_no=220624,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=261
+非重复处理 ，插入新的hash节点
+start_blk_no=220636,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=262
+非重复处理 ，插入新的hash节点
+start_blk_no=220648,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=263
+非重复处理 ，插入新的hash节点
+start_blk_no=220660,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=264
+非重复处理 ，插入新的hash节点
+start_blk_no=220672,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=265
+非重复处理 ，插入新的hash节点
+start_blk_no=220684,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=266
+非重复处理 ，插入新的hash节点
+start_blk_no=220696,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=267
+非重复处理 ，插入新的hash节点
+start_blk_no=220708,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=268
+非重复处理 ，插入新的hash节点
+start_blk_no=228872,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=269
+非重复处理 ，插入新的hash节点
+start_blk_no=220724,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=270
+非重复处理 ，插入新的hash节点
+start_blk_no=220736,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=271
+非重复处理 ，插入新的hash节点
+start_blk_no=220748,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=272
+非重复处理 ，插入新的hash节点
+start_blk_no=228880,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=273
+非重复处理 ，插入新的hash节点
+start_blk_no=228908,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=274
+非重复处理 ，插入新的hash节点
+start_blk_no=228904,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=275
+非重复处理 ，插入新的hash节点
+start_blk_no=228924,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=276
+非重复处理 ，插入新的hash节点
+start_blk_no=228936,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=277
+非重复处理 ，插入新的hash节点
+start_blk_no=228948,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=278
+非重复处理 ，插入新的hash节点
+start_blk_no=228960,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=279
+非重复处理 ，插入新的hash节点
+start_blk_no=228972,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=280
+非重复处理 ，插入新的hash节点
+start_blk_no=228984,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=281
+非重复处理 ，插入新的hash节点
+start_blk_no=228996,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=282
+非重复处理 ，插入新的hash节点
+start_blk_no=229008,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=283
+非重复处理 ，插入新的hash节点
+start_blk_no=229020,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=284
+非重复处理 ，插入新的hash节点
+start_blk_no=229032,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=285
+非重复处理 ，插入新的hash节点
+start_blk_no=229044,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=286
+非重复处理 ，插入新的hash节点
+start_blk_no=229056,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=287
+非重复处理 ，插入新的hash节点
+start_blk_no=229068,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=288
+非重复处理 ，插入新的hash节点
+start_blk_no=229080,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=289
+非重复处理 ，插入新的hash节点
+start_blk_no=229092,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=290
+非重复处理 ，插入新的hash节点
+start_blk_no=229104,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=291
+非重复处理 ，插入新的hash节点
+start_blk_no=229116,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=292
+非重复处理 ，插入新的hash节点
+start_blk_no=229128,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=293
+非重复处理 ，插入新的hash节点
+start_blk_no=229140,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=294
+非重复处理 ，插入新的hash节点
+start_blk_no=229152,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=295
+非重复处理 ，插入新的hash节点
+start_blk_no=229164,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=296
+非重复处理 ，插入新的hash节点
+start_blk_no=229176,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=297
+非重复处理 ，插入新的hash节点
+start_blk_no=229188,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=298
+非重复处理 ，插入新的hash节点
+start_blk_no=229200,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=299
+非重复处理 ，插入新的hash节点
+start_blk_no=229212,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=300
+非重复处理 ，插入新的hash节点
+start_blk_no=229224,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=301
+非重复处理 ，插入新的hash节点
+start_blk_no=229236,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=302
+非重复处理 ，插入新的hash节点
+start_blk_no=229248,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=303
+非重复处理 ，插入新的hash节点
+start_blk_no=229260,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=304
+非重复处理 ，插入新的hash节点
+start_blk_no=229272,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=305
+非重复处理 ，插入新的hash节点
+start_blk_no=229284,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=306
+非重复处理 ，插入新的hash节点
+start_blk_no=229296,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=307
+非重复处理 ，插入新的hash节点
+start_blk_no=229308,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=308
+非重复处理 ，插入新的hash节点
+start_blk_no=229320,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=309
+非重复处理 ，插入新的hash节点
+start_blk_no=229332,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=310
+非重复处理 ，插入新的hash节点
+start_blk_no=229344,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=311
+非重复处理 ，插入新的hash节点
+start_blk_no=229356,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=312
+非重复处理 ，插入新的hash节点
+start_blk_no=229368,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=313
+非重复处理 ，插入新的hash节点
+start_blk_no=229380,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=314
+非重复处理 ，插入新的hash节点
+start_blk_no=229392,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=315
+非重复处理 ，插入新的hash节点
+start_blk_no=229404,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=316
+非重复处理 ，插入新的hash节点
+start_blk_no=229416,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=317
+非重复处理 ，插入新的hash节点
+start_blk_no=229428,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=318
+非重复处理 ，插入新的hash节点
+start_blk_no=229440,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=319
+非重复处理 ，插入新的hash节点
+start_blk_no=229452,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=320
+非重复处理 ，插入新的hash节点
+start_blk_no=229464,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=321
+非重复处理 ，插入新的hash节点
+start_blk_no=229476,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=322
+非重复处理 ，插入新的hash节点
+start_blk_no=229488,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=323
+非重复处理 ，插入新的hash节点
+start_blk_no=229500,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=324
+非重复处理 ，插入新的hash节点
+start_blk_no=229512,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=325
+非重复处理 ，插入新的hash节点
+start_blk_no=229524,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=326
+非重复处理 ，插入新的hash节点
+start_blk_no=229536,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+pbn=191,pin=0,lsn=45504
+pbn=191,pin=1,lsn=45505
+pbn=191,pin=2,lsn=45506
+pbn=191,pin=3,lsn=45507
+start_blk_no=124708,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=29620
+非重复处理 ，插入新的hash节点
+dele_paddr:12225
+delete_laddr_in_data_node laddr 31179
+del set nand_blk_lpn
+pbn=191,pin=4,lsn=45516
+pbn=191,pin=5,lsn=45517
+pbn=191,pin=6,lsn=45518
+pbn=191,pin=7,lsn=45519
+start_blk_no=124720,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=29621
+非重复处理 ，插入新的hash节点
+dele_paddr:12226
+delete_laddr_in_data_node laddr 31182
+del set nand_blk_lpn
+pbn=191,pin=8,lsn=45528
+pbn=191,pin=9,lsn=45529
+pbn=191,pin=10,lsn=45530
+pbn=191,pin=11,lsn=45531
+start_blk_no=124732,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=29622
+非重复处理 ，插入新的hash节点
+dele_paddr:12227
+delete_laddr_in_data_node laddr 31185
+del set nand_blk_lpn
+pbn=191,pin=12,lsn=45540
+pbn=191,pin=13,lsn=45541
+pbn=191,pin=14,lsn=45542
+pbn=191,pin=15,lsn=45543
+start_blk_no=124744,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=29623
+非重复处理 ，插入新的hash节点
+dele_paddr:51144
+删除data_node节点 start
+delete addr:addr=51144
+delete hash:hash=2fe97b876bc985480b2a2c9daf799208
+删除data_node节点end
+start_blk_no=124756,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=29624
+非重复处理 ，插入新的hash节点
+dele_paddr:46561
+delete_laddr_in_data_node laddr 31191
+del set nand_blk_lpn
+pbn=727,pin=132,lsn=88112
+pbn=727,pin=133,lsn=88113
+pbn=727,pin=134,lsn=88114
+pbn=727,pin=135,lsn=88115
+start_blk_no=124768,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=29625
+非重复处理 ，插入新的hash节点
+dele_paddr:4131
+删除data_node节点 start
+delete addr:addr=4131
+delete hash:hash=d6b494507799df17b2ed3cc4676ccf4e
+删除data_node节点end
+start_blk_no=124780,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=29626
+非重复处理 ，插入新的hash节点
+dele_paddr:4132
+删除data_node节点 start
+delete addr:addr=4132
+delete hash:hash=fbfb9db259ea4249f616d53e7166b6c6
+删除data_node节点end
+start_blk_no=124792,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=29627
+非重复处理 ，插入新的hash节点
+dele_paddr:4133
+删除data_node节点 start
+delete addr:addr=4133
+delete hash:hash=50f04c2d449dc69a8b1248219199c99f
+删除data_node节点end
+start_blk_no=124804,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=29628
+非重复处理 ，插入新的hash节点
+dele_paddr:46562
+delete_laddr_in_data_node laddr 31203
+del set nand_blk_lpn
+pbn=727,pin=136,lsn=88148
+pbn=727,pin=137,lsn=88149
+pbn=727,pin=138,lsn=88150
+pbn=727,pin=139,lsn=88151
+start_blk_no=124816,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=29629
+非重复处理 ，插入新的hash节点
+dele_paddr:4134
+删除data_node节点 start
+delete addr:addr=4134
+delete hash:hash=1b25f2e32a4a69a58147a4164f344c74
+删除data_node节点end
+start_blk_no=124828,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=29630
+非重复处理 ，插入新的hash节点
+dele_paddr:4135
+删除data_node节点 start
+delete addr:addr=4135
+delete hash:hash=04f826d73af2491c43ca00df265ed3d0
+删除data_node节点end
+start_blk_no=124840,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=29631
+非重复处理 ，插入新的hash节点
+dele_paddr:4136
+删除data_node节点 start
+delete addr:addr=4136
+delete hash:hash=35610116f8a499a9bc0a7a7d29d9cf86
+删除data_node节点end
+start_blk_no=124852,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+触发最少的空闲blk数目: 3
+free_blk_num:3
+*********************************************gc_run start************************************************
+无效页最多的blk号=782，最多的无效页计数:148
+victim_blk_no:782
+delete addr:addr=50048
+page num in blk:0，失效的物理块地址：50048
+ 新的ppn地址为13153
+delete addr:addr=50050
+page num in blk:2，失效的物理块地址：50050
+ 新的ppn地址为13154
+delete addr:addr=50053
+page num in blk:5，失效的物理块地址：50053
+ 新的ppn地址为13155
+delete addr:addr=50056
+page num in blk:8，失效的物理块地址：50056
+ 新的ppn地址为13156
+delete addr:addr=50061
+page num in blk:13，失效的物理块地址：50061
+ 新的ppn地址为13157
+delete addr:addr=50089
+page num in blk:41，失效的物理块地址：50089
+ 新的ppn地址为13158
+delete addr:addr=50090
+page num in blk:42，失效的物理块地址：50090
+ 新的ppn地址为13159
+delete addr:addr=50091
+page num in blk:43，失效的物理块地址：50091
+ 新的ppn地址为13160
+delete addr:addr=50092
+page num in blk:44，失效的物理块地址：50092
+ 新的ppn地址为13161
+delete addr:addr=50093
+page num in blk:45，失效的物理块地址：50093
+ 新的ppn地址为13162
+delete addr:addr=50094
+page num in blk:46，失效的物理块地址：50094
+ 新的ppn地址为13163
+delete addr:addr=50096
+page num in blk:48，失效的物理块地址：50096
+ 新的ppn地址为13164
+delete addr:addr=50097
+page num in blk:49，失效的物理块地址：50097
+ 新的ppn地址为13165
+delete addr:addr=50098
+page num in blk:50，失效的物理块地址：50098
+ 新的ppn地址为13166
+delete addr:addr=50099
+page num in blk:51，失效的物理块地址：50099
+ 新的ppn地址为13167
+delete addr:addr=50100
+page num in blk:52，失效的物理块地址：50100
+ 新的ppn地址为13168
+delete addr:addr=50101
+page num in blk:53，失效的物理块地址：50101
+ 新的ppn地址为13169
+delete addr:addr=50102
+page num in blk:54，失效的物理块地址：50102
+ 新的ppn地址为13170
+delete addr:addr=50103
+page num in blk:55，失效的物理块地址：50103
+ 新的ppn地址为13171
+delete addr:addr=50104
+page num in blk:56，失效的物理块地址：50104
+ 新的ppn地址为13172
+delete addr:addr=50105
+page num in blk:57，失效的物理块地址：50105
+ 新的ppn地址为13173
+delete addr:addr=50106
+page num in blk:58，失效的物理块地址：50106
+ 新的ppn地址为13174
+delete addr:addr=50107
+page num in blk:59，失效的物理块地址：50107
+ 新的ppn地址为13175
+delete addr:addr=50108
+page num in blk:60，失效的物理块地址：50108
+ 新的ppn地址为13176
+delete addr:addr=50109
+page num in blk:61，失效的物理块地址：50109
+ 新的ppn地址为13177
+delete addr:addr=50110
+page num in blk:62，失效的物理块地址：50110
+ 新的ppn地址为13178
+delete addr:addr=50111
+page num in blk:63，失效的物理块地址：50111
+ 新的ppn地址为13179
+nand_erase
+gc_run end
+ppn=50048
+非重复处理 ，插入新的hash节点
+dele_paddr:30527
+删除data_node节点 start
+delete addr:addr=30527
+delete hash:hash=6c8218f827ae5749ef96cb3bd7c3001c
+删除data_node节点end
+start_blk_no=124864,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50049
+非重复处理 ，插入新的hash节点
+dele_paddr:36031
+删除data_node节点 start
+delete addr:addr=36031
+delete hash:hash=255f94211dfb6bf6634432da4ff81188
+删除data_node节点end
+start_blk_no=124876,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50050
+非重复处理 ，插入新的hash节点
+dele_paddr:4096
+删除data_node节点 start
+delete addr:addr=4096
+delete hash:hash=40d013e37e31402450a9f98bee803b80
+删除data_node节点end
+start_blk_no=124888,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50051
+非重复处理 ，插入新的hash节点
+dele_paddr:46565
+delete_laddr_in_data_node laddr 31224
+del set nand_blk_lpn
+pbn=727,pin=148,lsn=88208
+pbn=727,pin=149,lsn=88209
+pbn=727,pin=150,lsn=88210
+pbn=727,pin=151,lsn=88211
+start_blk_no=124900,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50052
+非重复处理 ，插入新的hash节点
+dele_paddr:4097
+删除data_node节点 start
+delete addr:addr=4097
+delete hash:hash=5d84d6215162b61ab9b9bb4e65145269
+删除data_node节点end
+start_blk_no=124912,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50053
+非重复处理 ，插入新的hash节点
+dele_paddr:56832
+删除data_node节点 start
+delete addr:addr=56832
+delete hash:hash=c81cbd9c6848b1d234767029b94bc799
+删除data_node节点end
+start_blk_no=124924,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50054
+非重复处理 ，插入新的hash节点
+dele_paddr:4098
+删除data_node节点 start
+delete addr:addr=4098
+delete hash:hash=3c2ecc38a5d131a8a61e7698b2aad6b9
+删除data_node节点end
+start_blk_no=124936,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50055
+非重复处理 ，插入新的hash节点
+dele_paddr:46567
+delete_laddr_in_data_node laddr 31236
+del set nand_blk_lpn
+pbn=727,pin=156,lsn=88244
+pbn=727,pin=157,lsn=88245
+pbn=727,pin=158,lsn=88246
+pbn=727,pin=159,lsn=88247
+start_blk_no=124948,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50056
+非重复处理 ，插入新的hash节点
+dele_paddr:4099
+删除data_node节点 start
+delete addr:addr=4099
+delete hash:hash=9ecdd122fa9f81cad13095b1823348cd
+删除data_node节点end
+start_blk_no=124960,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50057
+非重复处理 ，插入新的hash节点
+dele_paddr:56833
+删除data_node节点 start
+delete addr:addr=56833
+delete hash:hash=fd936b3b1216ed3bbcbae40746d89b5f
+删除data_node节点end
+start_blk_no=124972,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50058
+非重复处理 ，插入新的hash节点
+dele_paddr:56834
+删除data_node节点 start
+delete addr:addr=56834
+delete hash:hash=c8bc8d578937d8ec3901f63e0f070c67
+删除data_node节点end
+start_blk_no=124984,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50059
+非重复处理 ，插入新的hash节点
+dele_paddr:46569
+delete_laddr_in_data_node laddr 31248
+del set nand_blk_lpn
+pbn=727,pin=164,lsn=88280
+pbn=727,pin=165,lsn=88281
+pbn=727,pin=166,lsn=88282
+pbn=727,pin=167,lsn=88283
+start_blk_no=124996,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50060
+非重复处理 ，插入新的hash节点
+dele_paddr:56835
+删除data_node节点 start
+delete addr:addr=56835
+delete hash:hash=2e07b1313a5f127815d3dc431c315583
+删除data_node节点end
+start_blk_no=125008,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50061
+非重复处理 ，插入新的hash节点
+dele_paddr:56836
+删除data_node节点 start
+delete addr:addr=56836
+delete hash:hash=6fe4f89e4689880f672b2b9f4a725206
+删除data_node节点end
+start_blk_no=125020,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50062
+非重复处理 ，插入新的hash节点
+dele_paddr:56837
+删除data_node节点 start
+delete addr:addr=56837
+delete hash:hash=9236bf851eed6567e77b87cf689f9d9d
+删除data_node节点end
+start_blk_no=125032,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50063
+非重复处理 ，插入新的hash节点
+dele_paddr:46571
+delete_laddr_in_data_node laddr 31260
+del set nand_blk_lpn
+pbn=727,pin=172,lsn=88316
+pbn=727,pin=173,lsn=88317
+pbn=727,pin=174,lsn=88318
+pbn=727,pin=175,lsn=88319
+start_blk_no=125044,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50064
+非重复处理 ，插入新的hash节点
+dele_paddr:56838
+删除data_node节点 start
+delete addr:addr=56838
+delete hash:hash=65eeec78d18afa945128df4a84a4545f
+删除data_node节点end
+start_blk_no=125056,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50065
+非重复处理 ，插入新的hash节点
+dele_paddr:56839
+删除data_node节点 start
+delete addr:addr=56839
+delete hash:hash=1fd34630a68ca293fe3376f9ce00ddc4
+删除data_node节点end
+start_blk_no=125068,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50066
+非重复处理 ，插入新的hash节点
+dele_paddr:56840
+删除data_node节点 start
+delete addr:addr=56840
+delete hash:hash=3cf3d35845d70997c40919d226d56b65
+删除data_node节点end
+start_blk_no=125080,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50067
+非重复处理 ，插入新的hash节点
+dele_paddr:46573
+delete_laddr_in_data_node laddr 31272
+del set nand_blk_lpn
+pbn=727,pin=180,lsn=88352
+pbn=727,pin=181,lsn=88353
+pbn=727,pin=182,lsn=88354
+pbn=727,pin=183,lsn=88355
+start_blk_no=125092,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50068
+非重复处理 ，插入新的hash节点
+dele_paddr:56841
+删除data_node节点 start
+delete addr:addr=56841
+delete hash:hash=2a904c7dcf13dced26a6c75a17fcf366
+删除data_node节点end
+start_blk_no=125104,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50069
+非重复处理 ，插入新的hash节点
+dele_paddr:56842
+删除data_node节点 start
+delete addr:addr=56842
+delete hash:hash=5645c02a62c3ae6233a6b5b6f3fe0598
+删除data_node节点end
+start_blk_no=125116,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50070
+非重复处理 ，插入新的hash节点
+dele_paddr:56843
+删除data_node节点 start
+delete addr:addr=56843
+delete hash:hash=338c7bd8205602c7bb3f896cb69afe7a
+删除data_node节点end
+start_blk_no=125128,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50071
+非重复处理 ，插入新的hash节点
+dele_paddr:46575
+delete_laddr_in_data_node laddr 31284
+del set nand_blk_lpn
+pbn=727,pin=188,lsn=88388
+pbn=727,pin=189,lsn=88389
+pbn=727,pin=190,lsn=88390
+pbn=727,pin=191,lsn=88391
+start_blk_no=125140,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50072
+非重复处理 ，插入新的hash节点
+dele_paddr:56844
+删除data_node节点 start
+delete addr:addr=56844
+delete hash:hash=ff37ddefc9e2d267e036aa18755c6c8b
+删除data_node节点end
+start_blk_no=125152,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50073
+非重复处理 ，插入新的hash节点
+dele_paddr:56845
+删除data_node节点 start
+delete addr:addr=56845
+delete hash:hash=7f564d7995d37986f6347b4afc11ffb3
+删除data_node节点end
+start_blk_no=125164,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50074
+非重复处理 ，插入新的hash节点
+dele_paddr:56846
+删除data_node节点 start
+delete addr:addr=56846
+delete hash:hash=b9f145fa9e0b00c614dfe3700ec345e6
+删除data_node节点end
+start_blk_no=125176,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50075
+非重复处理 ，插入新的hash节点
+dele_paddr:25146
+delete_laddr_in_data_node laddr 31296
+del set nand_blk_lpn
+pbn=392,pin=232,lsn=88424
+pbn=392,pin=233,lsn=88425
+pbn=392,pin=234,lsn=88426
+pbn=392,pin=235,lsn=88427
+start_blk_no=125188,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50076
+非重复处理 ，插入新的hash节点
+dele_paddr:56847
+删除data_node节点 start
+delete addr:addr=56847
+delete hash:hash=b13b1df1f9a1da4478de44ebc2c2054c
+删除data_node节点end
+start_blk_no=125200,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50077
+非重复处理 ，插入新的hash节点
+dele_paddr:39346
+删除data_node节点 start
+delete addr:addr=39346
+delete hash:hash=5f8441c9ce70b2a18fce1c5177fa92bb
+删除data_node节点end
+start_blk_no=125212,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50078
+非重复处理 ，插入新的hash节点
+dele_paddr:15936
+删除data_node节点 start
+delete addr:addr=15936
+delete hash:hash=eeeaf93f58b8b2474d028551668a609b
+删除data_node节点end
+start_blk_no=125224,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50079
+非重复处理 ，插入新的hash节点
+dele_paddr:25148
+delete_laddr_in_data_node laddr 31308
+del set nand_blk_lpn
+pbn=392,pin=240,lsn=88460
+pbn=392,pin=241,lsn=88461
+pbn=392,pin=242,lsn=88462
+pbn=392,pin=243,lsn=88463
+start_blk_no=125236,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50080
+非重复处理 ，插入新的hash节点
+dele_paddr:15937
+删除data_node节点 start
+delete addr:addr=15937
+delete hash:hash=fcc0e1396eb693f89c0a12df513c4c53
+删除data_node节点end
+start_blk_no=125248,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50081
+非重复处理 ，插入新的hash节点
+dele_paddr:15938
+删除data_node节点 start
+delete addr:addr=15938
+delete hash:hash=9d917eb1b5345484f293eea3ee22a52c
+删除data_node节点end
+start_blk_no=125260,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50082
+非重复处理 ，插入新的hash节点
+dele_paddr:25149
+delete_laddr_in_data_node laddr 31317
+del set nand_blk_lpn
+pbn=392,pin=244,lsn=88484
+pbn=392,pin=245,lsn=88485
+pbn=392,pin=246,lsn=88486
+pbn=392,pin=247,lsn=88487
+start_blk_no=125272,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50083
+非重复处理 ，插入新的hash节点
+dele_paddr:1379
+删除data_node节点 start
+delete addr:addr=1379
+delete hash:hash=ec963e9408a4e3061da7fd4ab325fe63
+删除data_node节点end
+start_blk_no=125284,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50084
+非重复处理 ，插入新的hash节点
+dele_paddr:1380
+删除data_node节点 start
+delete addr:addr=1380
+delete hash:hash=80807f101f121c14c8a8c14dbf5b56fc
+删除data_node节点end
+start_blk_no=125296,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50085
+非重复处理 ，插入新的hash节点
+dele_paddr:72821
+删除data_node节点 start
+delete addr:addr=72821
+delete hash:hash=e6f737162abf11f759e7fa75f8a3e58c
+删除data_node节点end
+start_blk_no=125308,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50086
+非重复处理 ，插入新的hash节点
+dele_paddr:25104
+delete_laddr_in_data_node laddr 31329
+del set nand_blk_lpn
+pbn=392,pin=64,lsn=169200
+pbn=392,pin=65,lsn=169201
+pbn=392,pin=66,lsn=169202
+pbn=392,pin=67,lsn=169203
+start_blk_no=125320,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50087
+非重复处理 ，插入新的hash节点
+dele_paddr:1381
+删除data_node节点 start
+delete addr:addr=1381
+delete hash:hash=932212f80f467350598bc2b7a942fd08
+删除data_node节点end
+start_blk_no=125332,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50088
+非重复处理 ，插入新的hash节点
+dele_paddr:57497
+删除data_node节点 start
+delete addr:addr=57497
+delete hash:hash=0483a50c27b92537e4c9af8698e8f4ab
+删除data_node节点end
+start_blk_no=125344,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50089
+非重复处理 ，插入新的hash节点
+dele_paddr:15939
+删除data_node节点 start
+delete addr:addr=15939
+delete hash:hash=cc028fcb0c73a59406b4e40148066b90
+删除data_node节点end
+start_blk_no=125356,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50090
+非重复处理 ，插入新的hash节点
+dele_paddr:65664
+delete_laddr_in_data_node laddr 31341
+del set nand_blk_lpn
+pbn=1026,pin=0,lsn=88556
+pbn=1026,pin=1,lsn=88557
+pbn=1026,pin=2,lsn=88558
+pbn=1026,pin=3,lsn=88559
+start_blk_no=125368,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50091
+非重复处理 ，插入新的hash节点
+dele_paddr:15940
+删除data_node节点 start
+delete addr:addr=15940
+delete hash:hash=c71a01c1bd58321d048bd93f6f4f55f3
+删除data_node节点end
+start_blk_no=125380,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50092
+非重复处理 ，插入新的hash节点
+dele_paddr:15941
+删除data_node节点 start
+delete addr:addr=15941
+delete hash:hash=0557d134747e4da11f3fd87394d266c0
+删除data_node节点end
+start_blk_no=125392,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50093
+非重复处理 ，插入新的hash节点
+dele_paddr:15942
+删除data_node节点 start
+delete addr:addr=15942
+delete hash:hash=89b511c452b2a53629aa59503fc39955
+删除data_node节点end
+start_blk_no=125404,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50094
+非重复处理 ，插入新的hash节点
+dele_paddr:65666
+delete_laddr_in_data_node laddr 31353
+del set nand_blk_lpn
+pbn=1026,pin=8,lsn=88592
+pbn=1026,pin=9,lsn=88593
+pbn=1026,pin=10,lsn=88594
+pbn=1026,pin=11,lsn=88595
+start_blk_no=125416,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50095
+非重复处理 ，插入新的hash节点
+dele_paddr:15943
+删除data_node节点 start
+delete addr:addr=15943
+delete hash:hash=d0be3390fa60d00b97f8a26ad097b9f8
+删除data_node节点end
+start_blk_no=125428,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50096
+非重复处理 ，插入新的hash节点
+dele_paddr:15944
+删除data_node节点 start
+delete addr:addr=15944
+delete hash:hash=6a2647918b73803b982109fe488f4a0f
+删除data_node节点end
+start_blk_no=125440,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50097
+非重复处理 ，插入新的hash节点
+dele_paddr:15945
+删除data_node节点 start
+delete addr:addr=15945
+delete hash:hash=7154aafdeb3cec5d3ee077cd61e0ce29
+删除data_node节点end
+start_blk_no=125452,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50098
+非重复处理 ，插入新的hash节点
+dele_paddr:65668
+delete_laddr_in_data_node laddr 31365
+del set nand_blk_lpn
+pbn=1026,pin=16,lsn=88628
+pbn=1026,pin=17,lsn=88629
+pbn=1026,pin=18,lsn=88630
+pbn=1026,pin=19,lsn=88631
+start_blk_no=125464,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50099
+非重复处理 ，插入新的hash节点
+dele_paddr:72822
+删除data_node节点 start
+delete addr:addr=72822
+delete hash:hash=d82ac75eaf73d1ab8ddb0e18006b70e5
+删除data_node节点end
+start_blk_no=125476,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50100
+非重复处理 ，插入新的hash节点
+dele_paddr:72823
+删除data_node节点 start
+delete addr:addr=72823
+delete hash:hash=38d72f0208cf739e00b6021e86b01312
+删除data_node节点end
+start_blk_no=125488,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50101
+非重复处理 ，插入新的hash节点
+dele_paddr:72824
+删除data_node节点 start
+delete addr:addr=72824
+delete hash:hash=4ff3cf4d1ea069db29ff87409f2a5b4a
+删除data_node节点end
+start_blk_no=125500,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50102
+非重复处理 ，插入新的hash节点
+dele_paddr:65670
+delete_laddr_in_data_node laddr 31377
+del set nand_blk_lpn
+pbn=1026,pin=24,lsn=88664
+pbn=1026,pin=25,lsn=88665
+pbn=1026,pin=26,lsn=88666
+pbn=1026,pin=27,lsn=88667
+start_blk_no=125512,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50103
+非重复处理 ，插入新的hash节点
+dele_paddr:72825
+删除data_node节点 start
+delete addr:addr=72825
+delete hash:hash=b682d35c2963cc183b815fa552d999ba
+删除data_node节点end
+start_blk_no=125524,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50104
+非重复处理 ，插入新的hash节点
+dele_paddr:72826
+删除data_node节点 start
+delete addr:addr=72826
+delete hash:hash=6f9bd7a2c46cb8be2e5f901be2460c91
+删除data_node节点end
+start_blk_no=125536,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50105
+非重复处理 ，插入新的hash节点
+dele_paddr:12228
+delete_laddr_in_data_node laddr 31386
+del set nand_blk_lpn
+pbn=191,pin=16,lsn=45552
+pbn=191,pin=17,lsn=45553
+pbn=191,pin=18,lsn=45554
+pbn=191,pin=19,lsn=45555
+start_blk_no=125548,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50106
+非重复处理 ，插入新的hash节点
+dele_paddr:65672
+delete_laddr_in_data_node laddr 31389
+del set nand_blk_lpn
+pbn=1026,pin=32,lsn=88700
+pbn=1026,pin=33,lsn=88701
+pbn=1026,pin=34,lsn=88702
+pbn=1026,pin=35,lsn=88703
+start_blk_no=125560,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50107
+非重复处理 ，插入新的hash节点
+dele_paddr:72827
+删除data_node节点 start
+delete addr:addr=72827
+delete hash:hash=b0ba5cd208375171bd0dbc128f863e04
+删除data_node节点end
+start_blk_no=125572,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50108
+非重复处理 ，插入新的hash节点
+dele_paddr:72828
+删除data_node节点 start
+delete addr:addr=72828
+delete hash:hash=cb98e772b36cd9de0578567555b6e814
+删除data_node节点end
+start_blk_no=125584,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50109
+非重复处理 ，插入新的hash节点
+dele_paddr:72829
+删除data_node节点 start
+delete addr:addr=72829
+delete hash:hash=1c256aa2d36c9b78a2114f523dda5da8
+删除data_node节点end
+start_blk_no=125596,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50110
+非重复处理 ，插入新的hash节点
+dele_paddr:65674
+delete_laddr_in_data_node laddr 31401
+del set nand_blk_lpn
+pbn=1026,pin=40,lsn=88736
+pbn=1026,pin=41,lsn=88737
+pbn=1026,pin=42,lsn=88738
+pbn=1026,pin=43,lsn=88739
+start_blk_no=125608,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=50111
+非重复处理 ，插入新的hash节点
+dele_paddr:72830
+删除data_node节点 start
+delete addr:addr=72830
+delete hash:hash=075289baf72d06f94af861bcb33961de
+删除data_node节点end
+start_blk_no=125620,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+触发最少的空闲blk数目: 3
+free_blk_num:3
+*********************************************gc_run start************************************************
+无效页最多的blk号=249，最多的无效页计数:156
+victim_blk_no:249
+delete addr:addr=15950
+page num in blk:14，失效的物理块地址：15950
+ 新的ppn地址为13180
+delete addr:addr=15951
+page num in blk:15，失效的物理块地址：15951
+ 新的ppn地址为13181
+delete addr:addr=15952
+page num in blk:16，失效的物理块地址：15952
+ 新的ppn地址为13182
+delete addr:addr=15959
+page num in blk:23，失效的物理块地址：15959
+ 新的ppn地址为13183
+delete addr:addr=15960
+page num in blk:24，失效的物理块地址：15960
+ 新的ppn地址为30080
+delete addr:addr=15961
+page num in blk:25，失效的物理块地址：15961
+ 新的ppn地址为30081
+delete addr:addr=15968
+page num in blk:32，失效的物理块地址：15968
+ 新的ppn地址为30082
+delete addr:addr=15969
+page num in blk:33，失效的物理块地址：15969
+ 新的ppn地址为30083
+delete addr:addr=15970
+page num in blk:34，失效的物理块地址：15970
+ 新的ppn地址为30084
+delete addr:addr=15971
+page num in blk:35，失效的物理块地址：15971
+ 新的ppn地址为30085
+delete addr:addr=15972
+page num in blk:36，失效的物理块地址：15972
+ 新的ppn地址为72099
+delete addr:addr=15973
+page num in blk:37，失效的物理块地址：15973
+ 新的ppn地址为72100
+delete addr:addr=15974
+page num in blk:38，失效的物理块地址：15974
+ 新的ppn地址为72101
+delete addr:addr=15975
+page num in blk:39，失效的物理块地址：15975
+ 新的ppn地址为72102
+delete addr:addr=15976
+page num in blk:40，失效的物理块地址：15976
+ 新的ppn地址为72103
+delete addr:addr=15977
+page num in blk:41，失效的物理块地址：15977
+ 新的ppn地址为30086
+delete addr:addr=15978
+page num in blk:42，失效的物理块地址：15978
+ 新的ppn地址为30087
+delete addr:addr=15979
+page num in blk:43，失效的物理块地址：15979
+ 新的ppn地址为30088
+delete addr:addr=15980
+page num in blk:44，失效的物理块地址：15980
+ 新的ppn地址为30089
+delete addr:addr=15981
+page num in blk:45，失效的物理块地址：15981
+ 新的ppn地址为30090
+delete addr:addr=15982
+page num in blk:46，失效的物理块地址：15982
+ 新的ppn地址为30091
+delete addr:addr=15983
+page num in blk:47，失效的物理块地址：15983
+ 新的ppn地址为30092
+delete addr:addr=15984
+page num in blk:48，失效的物理块地址：15984
+ 新的ppn地址为30093
+delete addr:addr=15985
+page num in blk:49，失效的物理块地址：15985
+ 新的ppn地址为30094
+delete addr:addr=15986
+page num in blk:50，失效的物理块地址：15986
+ 新的ppn地址为30095
+nand_erase
+gc_run end
+*********************************************gc_run start************************************************
+无效页最多的blk号=534，最多的无效页计数:140
+victim_blk_no:534
+delete addr:addr=34181
+page num in blk:5，失效的物理块地址：34181
+ 新的ppn地址为72104
+delete addr:addr=34182
+page num in blk:6，失效的物理块地址：34182
+ 新的ppn地址为72105
+delete addr:addr=34183
+page num in blk:7，失效的物理块地址：34183
+ 新的ppn地址为72106
+delete addr:addr=34184
+page num in blk:8，失效的物理块地址：34184
+ 新的ppn地址为72107
+delete addr:addr=34185
+page num in blk:9，失效的物理块地址：34185
+ 新的ppn地址为72108
+nand_blk[pbn].sect[pin+i].free!=1,pbn=1126,pin=176,i=0callFsim start
+send_flash_request start
+ppn=46451
+非重复处理 ，插入新的hash节点
+dele_paddr:25448
+删除data_node节点 start
+delete addr:addr=25448
+delete hash:hash=cc1d063d7696c1ce1ddd17868cc1ae56
+删除data_node节点end
+start_blk_no=52376,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=46452
+非重复处理 ，插入新的hash节点
+dele_paddr:25449
+删除data_node节点 start
+delete addr:addr=25449
+delete hash:hash=19fd558066f3084cef9ed78c989ef517
+删除data_node节点end
+start_blk_no=52388,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=46453
+非重复处理 ，插入新的hash节点
+dele_paddr:25450
+删除data_node节点 start
+delete addr:addr=25450
+delete hash:hash=6603320e70a55035596df3b4bee3fb1d
+删除data_node节点end
+start_blk_no=52400,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=46454
+非重复处理 ，插入新的hash节点
+dele_paddr:25451
+删除data_node节点 start
+delete addr:addr=25451
+delete hash:hash=56a291563457ef971932b9383ed79a9d
+删除data_node节点end
+start_blk_no=52412,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=46455
+非重复处理 ，插入新的hash节点
+dele_paddr:25452
+删除data_node节点 start
+delete addr:addr=25452
+delete hash:hash=8075ca5269b7830ecaf812d9e1f1ea0f
+删除data_node节点end
+start_blk_no=52424,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=46456
+非重复处理 ，插入新的hash节点
+dele_paddr:25453
+删除data_node节点 start
+delete addr:addr=25453
+delete hash:hash=d3910e12c862481c6a4ee65c26d46b50
+删除data_node节点end
+start_blk_no=52436,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=46457
+非重复处理 ，插入新的hash节点
+dele_paddr:25454
+删除data_node节点 start
+delete addr:addr=25454
+delete hash:hash=23deeadaf002e43f6d2961633fcc2f17
+删除data_node节点end
+start_blk_no=52448,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=46458
+非重复处理 ，插入新的hash节点
+dele_paddr:25455
+删除data_node节点 start
+delete addr:addr=25455
+delete hash:hash=39c6468eddfe1e9b2692bf1652653182
+删除data_node节点end
+start_blk_no=52460,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=46459
+非重复处理 ，插入新的hash节点
+dele_paddr:25456
+删除data_node节点 start
+delete addr:addr=25456
+delete hash:hash=b803c79da242e082582e33112d9fe0e4
+删除data_node节点end
+start_blk_no=52472,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=46460
+非重复处理 ，插入新的hash节点
+dele_paddr:25457
+删除data_node节点 start
+delete addr:addr=25457
+delete hash:hash=a6d3efa9206f806c3c2750d34a9703dc
+删除data_node节点end
+start_blk_no=52484,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=46461
+非重复处理 ，插入新的hash节点
+dele_paddr:25458
+删除data_node节点 start
+delete addr:addr=25458
+delete hash:hash=2c3219843d8af2e4ad4fdeca6d87a66e
+删除data_node节点end
+start_blk_no=52496,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=46462
+非重复处理 ，插入新的hash节点
+dele_paddr:25459
+删除data_node节点 start
+delete addr:addr=25459
+delete hash:hash=1ac280acf329b7aecdc080e1ce98a100
+删除data_node节点end
+start_blk_no=52508,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=46463
+非重复处理 ，插入新的hash节点
+dele_paddr:25460
+删除data_node节点 start
+delete addr:addr=25460
+delete hash:hash=8610f6566d63419a3464133fd1baaeb3
+删除data_node节点end
+start_blk_no=52520,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+触发最少的空闲blk数目: 3
+free_blk_num:3
+*********************************************gc_run start************************************************
+无效页最多的blk号=397，最多的无效页计数:212
+victim_blk_no:397
+delete addr:addr=25461
+page num in blk:53，失效的物理块地址：25461
+ 新的ppn地址为72306
+delete addr:addr=25462
+page num in blk:54，失效的物理块地址：25462
+ 新的ppn地址为72307
+delete addr:addr=25463
+page num in blk:55，失效的物理块地址：25463
+ 新的ppn地址为72308
+delete addr:addr=25464
+page num in blk:56，失效的物理块地址：25464
+ 新的ppn地址为72309
+delete addr:addr=25465
+page num in blk:57，失效的物理块地址：25465
+ 新的ppn地址为72310
+delete addr:addr=25466
+page num in blk:58，失效的物理块地址：25466
+ 新的ppn地址为72311
+delete addr:addr=25467
+page num in blk:59，失效的物理块地址：25467
+ 新的ppn地址为72312
+delete addr:addr=25468
+page num in blk:60，失效的物理块地址：25468
+ 新的ppn地址为72313
+delete addr:addr=25469
+page num in blk:61，失效的物理块地址：25469
+ 新的ppn地址为72314
+delete addr:addr=25470
+page num in blk:62，失效的物理块地址：25470
+ 新的ppn地址为72315
+delete addr:addr=25471
+page num in blk:63，失效的物理块地址：25471
+ 新的ppn地址为72316
+nand_erase
+gc_run end
+ppn=25408
+非重复处理 ，插入新的hash节点
+dele_paddr:72306
+删除data_node节点 start
+delete addr:addr=72306
+delete hash:hash=c217672b5ba0197ddd03daa83c79a47f
+删除data_node节点end
+start_blk_no=52532,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25409
+非重复处理 ，插入新的hash节点
+dele_paddr:72307
+删除data_node节点 start
+delete addr:addr=72307
+delete hash:hash=9e983eee6c0569cabff2b8af7200f3e5
+删除data_node节点end
+start_blk_no=52544,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25410
+非重复处理 ，插入新的hash节点
+dele_paddr:72308
+删除data_node节点 start
+delete addr:addr=72308
+delete hash:hash=c017996a09555ca740fc954277059d5e
+删除data_node节点end
+start_blk_no=52556,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25411
+非重复处理 ，插入新的hash节点
+dele_paddr:72309
+删除data_node节点 start
+delete addr:addr=72309
+delete hash:hash=10b8bf36c5cd02e93dd4f69f8b82c811
+删除data_node节点end
+start_blk_no=52568,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25412
+非重复处理 ，插入新的hash节点
+dele_paddr:72310
+删除data_node节点 start
+delete addr:addr=72310
+delete hash:hash=463b620968661095acd2a51aa7d73c8e
+删除data_node节点end
+start_blk_no=52580,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25413
+非重复处理 ，插入新的hash节点
+dele_paddr:72311
+删除data_node节点 start
+delete addr:addr=72311
+delete hash:hash=933b930b59b0be5b69f0e0e2678771e9
+删除data_node节点end
+start_blk_no=52592,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25414
+非重复处理 ，插入新的hash节点
+dele_paddr:72312
+删除data_node节点 start
+delete addr:addr=72312
+delete hash:hash=f2ebf5632bffee8508c2337586e1adaf
+删除data_node节点end
+start_blk_no=52604,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25415
+非重复处理 ，插入新的hash节点
+dele_paddr:72313
+删除data_node节点 start
+delete addr:addr=72313
+delete hash:hash=504ab363ce7091dfa9f1b71d47fcbea0
+删除data_node节点end
+start_blk_no=52616,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25416
+非重复处理 ，插入新的hash节点
+dele_paddr:72314
+删除data_node节点 start
+delete addr:addr=72314
+delete hash:hash=3cd10d65b63b77edfa916bc804d99f51
+删除data_node节点end
+start_blk_no=52628,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25417
+非重复处理 ，插入新的hash节点
+dele_paddr:72315
+删除data_node节点 start
+delete addr:addr=72315
+delete hash:hash=9f7e91e2d94737bbb637f90c5e3d4fd2
+删除data_node节点end
+start_blk_no=52640,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25418
+非重复处理 ，插入新的hash节点
+dele_paddr:72316
+删除data_node节点 start
+delete addr:addr=72316
+delete hash:hash=629621288320d626449239c342c9a23a
+删除data_node节点end
+start_blk_no=52652,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25419
+非重复处理 ，插入新的hash节点
+dele_paddr:57408
+删除data_node节点 start
+delete addr:addr=57408
+delete hash:hash=d6bfc7fd0bf7c6899f01e760a7d4a7b4
+删除data_node节点end
+start_blk_no=52664,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25420
+非重复处理 ，插入新的hash节点
+dele_paddr:57409
+删除data_node节点 start
+delete addr:addr=57409
+delete hash:hash=c914e7d9497c4eee447d81125a38ec45
+删除data_node节点end
+start_blk_no=52676,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25421
+非重复处理 ，插入新的hash节点
+dele_paddr:57410
+删除data_node节点 start
+delete addr:addr=57410
+delete hash:hash=3c5880c79063d9371e18103825f82843
+删除data_node节点end
+start_blk_no=52688,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25422
+非重复处理 ，插入新的hash节点
+dele_paddr:57411
+删除data_node节点 start
+delete addr:addr=57411
+delete hash:hash=3123812e6fa9677f4f409dfdaf2ecdbd
+删除data_node节点end
+start_blk_no=52700,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25423
+非重复处理 ，插入新的hash节点
+dele_paddr:57412
+删除data_node节点 start
+delete addr:addr=57412
+delete hash:hash=e1e68b95b005d1d77ec2f64497b0c9bd
+删除data_node节点end
+start_blk_no=52712,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25424
+非重复处理 ，插入新的hash节点
+dele_paddr:57413
+删除data_node节点 start
+delete addr:addr=57413
+delete hash:hash=d28a4c2f6af3642f92708721d61cf26f
+删除data_node节点end
+start_blk_no=52724,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25425
+非重复处理 ，插入新的hash节点
+dele_paddr:57414
+删除data_node节点 start
+delete addr:addr=57414
+delete hash:hash=54e175058970db2e9d74e711a26b5e88
+删除data_node节点end
+start_blk_no=52736,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25426
+非重复处理 ，插入新的hash节点
+dele_paddr:57415
+删除data_node节点 start
+delete addr:addr=57415
+delete hash:hash=223898e0728f45b9cd331c5abbe9a379
+删除data_node节点end
+start_blk_no=52748,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25427
+非重复处理 ，插入新的hash节点
+dele_paddr:57416
+删除data_node节点 start
+delete addr:addr=57416
+delete hash:hash=4a8e860c1bb5acaaaffc0fc5be4a065c
+删除data_node节点end
+start_blk_no=52760,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25428
+非重复处理 ，插入新的hash节点
+dele_paddr:57417
+删除data_node节点 start
+delete addr:addr=57417
+delete hash:hash=ba912a7c8497a764e6124067cf1eb532
+删除data_node节点end
+start_blk_no=52772,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25429
+非重复处理 ，插入新的hash节点
+dele_paddr:57418
+删除data_node节点 start
+delete addr:addr=57418
+delete hash:hash=4c87ddcc7824771f8fdaef28ff6d4e24
+删除data_node节点end
+start_blk_no=52784,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25430
+非重复处理 ，插入新的hash节点
+dele_paddr:57419
+删除data_node节点 start
+delete addr:addr=57419
+delete hash:hash=10633c3ec0d793f018f1fe982dc1bb63
+删除data_node节点end
+start_blk_no=52796,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25431
+非重复处理 ，插入新的hash节点
+dele_paddr:57420
+删除data_node节点 start
+delete addr:addr=57420
+delete hash:hash=a93cce6421b9cf0d002897082b5d355a
+删除data_node节点end
+start_blk_no=52808,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25432
+非重复处理 ，插入新的hash节点
+dele_paddr:57421
+删除data_node节点 start
+delete addr:addr=57421
+delete hash:hash=6fd9e0eefe160e29012ea773091cc418
+删除data_node节点end
+start_blk_no=52820,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25433
+非重复处理 ，插入新的hash节点
+dele_paddr:57422
+删除data_node节点 start
+delete addr:addr=57422
+delete hash:hash=0efe940021a3a8ae93f6c6ea432d6468
+删除data_node节点end
+start_blk_no=52832,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25434
+非重复处理 ，插入新的hash节点
+dele_paddr:57423
+删除data_node节点 start
+delete addr:addr=57423
+delete hash:hash=967e9f5058bf13b7b6f7c88b37e94892
+删除data_node节点end
+start_blk_no=52844,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25435
+非重复处理 ，插入新的hash节点
+dele_paddr:57424
+删除data_node节点 start
+delete addr:addr=57424
+delete hash:hash=05c3d8a18a7535847453c014b2735c10
+删除data_node节点end
+start_blk_no=52856,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25436
+非重复处理 ，插入新的hash节点
+dele_paddr:57425
+删除data_node节点 start
+delete addr:addr=57425
+delete hash:hash=1ffac53aa36abf60e12173a3f5ea028e
+删除data_node节点end
+start_blk_no=52868,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25437
+非重复处理 ，插入新的hash节点
+dele_paddr:57426
+删除data_node节点 start
+delete addr:addr=57426
+delete hash:hash=829167f371a9f2a3ef641da6ff534cd5
+删除data_node节点end
+start_blk_no=52880,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25438
+非重复处理 ，插入新的hash节点
+dele_paddr:57427
+删除data_node节点 start
+delete addr:addr=57427
+delete hash:hash=5bea9b330dca9e8833fe88e0f6796d73
+删除data_node节点end
+start_blk_no=52892,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25439
+非重复处理 ，插入新的hash节点
+dele_paddr:57428
+删除data_node节点 start
+delete addr:addr=57428
+delete hash:hash=39d48047207dac580e073c3d7a767f45
+删除data_node节点end
+start_blk_no=52904,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25440
+非重复处理 ，插入新的hash节点
+dele_paddr:57429
+删除data_node节点 start
+delete addr:addr=57429
+delete hash:hash=6acc0e0a2a816ebcb1264026e76f1d7b
+删除data_node节点end
+start_blk_no=52916,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25441
+非重复处理 ，插入新的hash节点
+dele_paddr:57430
+删除data_node节点 start
+delete addr:addr=57430
+delete hash:hash=c1062d1e66a2f9d33ec928fa3d9b060d
+删除data_node节点end
+start_blk_no=52928,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25442
+非重复处理 ，插入新的hash节点
+dele_paddr:57431
+删除data_node节点 start
+delete addr:addr=57431
+delete hash:hash=8ca6a2462d4798b0f9c9246dc9c1974c
+删除data_node节点end
+start_blk_no=52940,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25443
+非重复处理 ，插入新的hash节点
+dele_paddr:57432
+删除data_node节点 start
+delete addr:addr=57432
+delete hash:hash=791c34e6219d808351d9c3a8de62ade3
+删除data_node节点end
+start_blk_no=52952,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25444
+非重复处理 ，插入新的hash节点
+dele_paddr:57433
+删除data_node节点 start
+delete addr:addr=57433
+delete hash:hash=8a3ee9a22197d9e23d6ac5981d32fb35
+删除data_node节点end
+start_blk_no=52964,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25445
+非重复处理 ，插入新的hash节点
+dele_paddr:5251
+delete_laddr_in_data_node laddr 13243
+del set nand_blk_lpn
+pbn=82,pin=12,lsn=148740
+pbn=82,pin=13,lsn=148741
+pbn=82,pin=14,lsn=148742
+pbn=82,pin=15,lsn=148743
+start_blk_no=52976,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25446
+非重复处理 ，插入新的hash节点
+dele_paddr:57435
+删除data_node节点 start
+delete addr:addr=57435
+delete hash:hash=e2457e31863d439a3645519d7456aa0b
+删除data_node节点end
+start_blk_no=52988,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25447
+非重复处理 ，插入新的hash节点
+dele_paddr:57436
+删除data_node节点 start
+delete addr:addr=57436
+delete hash:hash=ac21fbfff0afa3455be1bd99ba527ae5
+删除data_node节点end
+start_blk_no=53000,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25448
+非重复处理 ，插入新的hash节点
+dele_paddr:57437
+删除data_node节点 start
+delete addr:addr=57437
+delete hash:hash=a3116949ab2bb76c947976ba11c1feb6
+删除data_node节点end
+start_blk_no=53012,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25449
+非重复处理 ，插入新的hash节点
+dele_paddr:57438
+删除data_node节点 start
+delete addr:addr=57438
+delete hash:hash=c03af8505b22325cc7b6324b2e106137
+删除data_node节点end
+start_blk_no=53024,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25450
+非重复处理 ，插入新的hash节点
+dele_paddr:57439
+删除data_node节点 start
+delete addr:addr=57439
+delete hash:hash=ce5458d4558859decf04a0961a375b9a
+删除data_node节点end
+start_blk_no=53036,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25451
+非重复处理 ，插入新的hash节点
+dele_paddr:57440
+删除data_node节点 start
+delete addr:addr=57440
+delete hash:hash=28f35b7241d99fa58d325266c8a88439
+删除data_node节点end
+start_blk_no=53048,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25452
+非重复处理 ，插入新的hash节点
+dele_paddr:57441
+删除data_node节点 start
+delete addr:addr=57441
+delete hash:hash=961f4a45e8a7ff4ce0b0fd45e3bd38ba
+删除data_node节点end
+start_blk_no=53060,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25453
+非重复处理 ，插入新的hash节点
+dele_paddr:57442
+删除data_node节点 start
+delete addr:addr=57442
+delete hash:hash=6584c816706476492fcd36510a250519
+删除data_node节点end
+start_blk_no=53072,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25454
+非重复处理 ，插入新的hash节点
+dele_paddr:57443
+删除data_node节点 start
+delete addr:addr=57443
+delete hash:hash=734e3a9d9ddc0480777cf1db9105d17d
+删除data_node节点end
+start_blk_no=53084,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25455
+非重复处理 ，插入新的hash节点
+dele_paddr:57444
+删除data_node节点 start
+delete addr:addr=57444
+delete hash:hash=9c65abe7d30f8b2930bbd9bb0b5878e7
+删除data_node节点end
+start_blk_no=53096,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25456
+非重复处理 ，插入新的hash节点
+dele_paddr:57445
+删除data_node节点 start
+delete addr:addr=57445
+delete hash:hash=2fcd68dac6cf8ebba897585354ee8a47
+删除data_node节点end
+start_blk_no=53108,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25457
+非重复处理 ，插入新的hash节点
+dele_paddr:57446
+删除data_node节点 start
+delete addr:addr=57446
+delete hash:hash=b294341e183f14c71856bca89d658f2e
+删除data_node节点end
+start_blk_no=53120,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25458
+非重复处理 ，插入新的hash节点
+dele_paddr:57447
+删除data_node节点 start
+delete addr:addr=57447
+delete hash:hash=6d543da3722242e181060497ed6fcdb0
+删除data_node节点end
+start_blk_no=53132,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25459
+非重复处理 ，插入新的hash节点
+dele_paddr:57448
+删除data_node节点 start
+delete addr:addr=57448
+delete hash:hash=841ccfed76af037015597dd461bdab87
+删除data_node节点end
+start_blk_no=53144,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25460
+非重复处理 ，插入新的hash节点
+dele_paddr:57449
+删除data_node节点 start
+delete addr:addr=57449
+delete hash:hash=55fcec1afc185dbf939aa10e28f347cd
+删除data_node节点end
+start_blk_no=53156,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25461
+非重复处理 ，插入新的hash节点
+dele_paddr:57450
+删除data_node节点 start
+delete addr:addr=57450
+delete hash:hash=be775eb29f702357089da837e712139d
+删除data_node节点end
+start_blk_no=53168,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25462
+非重复处理 ，插入新的hash节点
+dele_paddr:57451
+删除data_node节点 start
+delete addr:addr=57451
+delete hash:hash=71711949b2bce2cf9361730a5af999b4
+删除data_node节点end
+start_blk_no=53180,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25463
+非重复处理 ，插入新的hash节点
+dele_paddr:57452
+删除data_node节点 start
+delete addr:addr=57452
+delete hash:hash=c8319a0aa3e423ae3a3d6407c5c6a231
+删除data_node节点end
+start_blk_no=53192,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25464
+非重复处理 ，插入新的hash节点
+dele_paddr:57453
+删除data_node节点 start
+delete addr:addr=57453
+delete hash:hash=b92ec85eca4d3016654e910f64b5b609
+删除data_node节点end
+start_blk_no=53204,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25465
+非重复处理 ，插入新的hash节点
+dele_paddr:57454
+删除data_node节点 start
+delete addr:addr=57454
+delete hash:hash=d444aa3ac9da50b346bb74957ee26075
+删除data_node节点end
+start_blk_no=53216,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25466
+非重复处理 ，插入新的hash节点
+dele_paddr:57455
+删除data_node节点 start
+delete addr:addr=57455
+delete hash:hash=0163c121e353abfce130f9b3a4ebbbf3
+删除data_node节点end
+start_blk_no=53228,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25467
+非重复处理 ，插入新的hash节点
+dele_paddr:57456
+删除data_node节点 start
+delete addr:addr=57456
+delete hash:hash=3d853f420a7add02fd3042211e96d6a8
+删除data_node节点end
+start_blk_no=53240,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25468
+非重复处理 ，插入新的hash节点
+dele_paddr:57457
+删除data_node节点 start
+delete addr:addr=57457
+delete hash:hash=c302ed9320a4b2a0bf638323fc82bf53
+删除data_node节点end
+start_blk_no=53252,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25469
+非重复处理 ，插入新的hash节点
+dele_paddr:57458
+删除data_node节点 start
+delete addr:addr=57458
+delete hash:hash=3af22fbe30c472d459ce0acd828fcf70
+删除data_node节点end
+start_blk_no=53264,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25470
+非重复处理 ，插入新的hash节点
+dele_paddr:10311
+删除data_node节点 start
+delete addr:addr=10311
+delete hash:hash=4e7639ded6ace89f2b260b2c66e2b7df
+删除data_node节点end
+start_blk_no=53276,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+ppn=25471
+非重复处理 ，插入新的hash节点
+dele_paddr:57460
+删除data_node节点 start
+delete addr:addr=57460
+delete hash:hash=86a685d371f2fc46feb8a36808ce20d1
+删除data_node节点end
+start_blk_no=53288,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+callFsim end
+callFsim start
+send_flash_request start
+触发最少的空闲blk数目: 3
+free_blk_num:3
+*********************************************gc_run start************************************************
+无效页最多的blk号=897，最多的无效页计数:224
+victim_blk_no:897
+delete addr:addr=57461
+page num in blk:53，失效的物理块地址：57461
+ 新的ppn地址为72317
+delete addr:addr=57462
+page num in blk:54，失效的物理块地址：57462
+ 新的ppn地址为72318
+delete addr:addr=57463
+page num in blk:55，失效的物理块地址：57463
+ 新的ppn地址为72319
+delete addr:addr=57465
+page num in blk:57，失效的物理块地址：57465
+ 新的ppn地址为72448
+delete addr:addr=57466
+page num in blk:58，失效的物理块地址：57466
+ 新的ppn地址为72449
+delete addr:addr=57467
+page num in blk:59，失效的物理块地址：57467
+ 新的ppn地址为72450
+delete addr:addr=57469
+page num in blk:61，失效的物理块地址：57469
+ 新的ppn地址为72451
+delete addr:addr=57470
+page num in blk:62，失效的物理块地址：57470
+ 新的ppn地址为72452
+nand_erase
+gc_run end
+*******************************del set nand_blk_lpn
+pbn=5,pin=88,lsn=63344
+pbn=5,pin=89,lsn=63345
+pbn=5,pin=90,lsn=63346
+pbn=5,pin=91,lsn=63347
+start_blk_no=192924,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+插入，ref++insert_laddr_in_node
+hash相同，逻辑地址不同的：ref=978,lpn=48233,ppn=33092,hash=f7e83a4d4fe0a40a14791b5cd57196c4
+已经失效的ppn地址：lpn=48233,ppn=343
+删除地址的ref：ref=34
+ 覆盖删除set nand_blk_lpn
+pbn=5,pin=92,lsn=158752
+pbn=5,pin=93,lsn=158753
+pbn=5,pin=94,lsn=158754
+pbn=5,pin=95,lsn=158755
+start_blk_no=192936,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62471
+非重复处理 ，插入新的hash节点
+dele_paddr:344
+delete_laddr_in_data_node laddr 48236
+del set nand_blk_lpn
+pbn=5,pin=96,lsn=247604
+pbn=5,pin=97,lsn=247605
+pbn=5,pin=98,lsn=247606
+pbn=5,pin=99,lsn=247607
+start_blk_no=192948,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+插入，ref++insert_laddr_in_node
+hash相同，逻辑地址不同的：ref=2,lpn=48239,ppn=63331,hash=a6cbc18be3ed1dcfcdc17512eeb410f0
+已经失效的ppn地址：lpn=48239,ppn=345
+删除地址的ref：ref=46
+ 覆盖删除set nand_blk_lpn
+pbn=5,pin=100,lsn=40816
+pbn=5,pin=101,lsn=40817
+pbn=5,pin=102,lsn=40818
+pbn=5,pin=103,lsn=40819
+start_blk_no=192960,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+插入，ref++insert_laddr_in_node
+hash相同，逻辑地址不同的：ref=663,lpn=48242,ppn=33291,hash=564eef9f85db50cc1c27b87a86d9acd1
+已经失效的ppn地址：lpn=48242,ppn=346
+删除地址的ref：ref=42
+ 覆盖删除set nand_blk_lpn
+pbn=5,pin=104,lsn=179952
+pbn=5,pin=105,lsn=179953
+pbn=5,pin=106,lsn=179954
+pbn=5,pin=107,lsn=179955
+start_blk_no=192972,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62472
+非重复处理 ，插入新的hash节点
+dele_paddr:347
+delete_laddr_in_data_node laddr 48245
+del set nand_blk_lpn
+pbn=5,pin=108,lsn=119520
+pbn=5,pin=109,lsn=119521
+pbn=5,pin=110,lsn=119522
+pbn=5,pin=111,lsn=119523
+start_blk_no=192984,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+插入，ref++insert_laddr_in_node
+hash相同，逻辑地址不同的：ref=503,lpn=40450,ppn=38968,hash=056475555001759252a0261ea71233a3
+已经失效的ppn地址：lpn=40450,ppn=29252
+删除地址的ref：ref=0
+删除的节点信息：paddr=29252,hash=92ab3d76d9a3c9628fa8673ad07b2aa8 
+delete addr:addr=29252
+delete hash:hash=92ab3d76d9a3c9628fa8673ad07b2aa8
+start_blk_no=161804,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+插入，ref++insert_laddr_in_node
+hash相同，逻辑地址不同的：ref=873,lpn=41477,ppn=263,hash=ee2d3a53f93619621d2a08983e772839
+已经失效的ppn地址：lpn=41477,ppn=44019
+删除地址的ref：ref=0
+删除的节点信息：paddr=44019,hash=51e1afca9f91d09bad1564b1f6d6b1f9 
+delete addr:addr=44019
+delete hash:hash=51e1afca9f91d09bad1564b1f6d6b1f9
+start_blk_no=165912,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+插入，ref++insert_laddr_in_node
+hash相同，逻辑地址不同的：ref=874,lpn=42756,ppn=263,hash=ee2d3a53f93619621d2a08983e772839
+已经失效的ppn地址：lpn=42756,ppn=37415
+删除地址的ref：ref=1
+ 覆盖删除set nand_blk_lpn
+pbn=584,pin=156,lsn=244576
+pbn=584,pin=157,lsn=244577
+pbn=584,pin=158,lsn=244578
+pbn=584,pin=159,lsn=244579
+start_blk_no=171028,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+插入，ref++insert_laddr_in_node
+hash相同，逻辑地址不同的：ref=859,lpn=42759,ppn=264,hash=1ae49a6f8c7a3ad51d543589dcdb7eed
+已经失效的ppn地址：lpn=42759,ppn=37416
+删除地址的ref：ref=1
+ 覆盖删除set nand_blk_lpn
+pbn=584,pin=160,lsn=244540
+pbn=584,pin=161,lsn=244541
+pbn=584,pin=162,lsn=244542
+pbn=584,pin=163,lsn=244543
+start_blk_no=171040,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+逻辑地址和hash都一样的个数：634
+start_blk_no=171052,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+插入，ref++insert_laddr_in_node
+hash相同，逻辑地址不同的：ref=916,lpn=50133,ppn=265,hash=e8bee12697c77419faef4a87f9d146e9
+已经失效的ppn地址：lpn=50133,ppn=9645
+删除地址的ref：ref=0
+删除的节点信息：paddr=9645,hash=2a129237c15cd616fda1254759ca06af 
+delete addr:addr=9645
+delete hash:hash=2a129237c15cd616fda1254759ca06af
+start_blk_no=200536,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+插入，ref++insert_laddr_in_node
+hash相同，逻辑地址不同的：ref=917,lpn=50136,ppn=265,hash=e8bee12697c77419faef4a87f9d146e9
+已经失效的ppn地址：lpn=50136,ppn=7071
+删除地址的ref：ref=0
+删除的节点信息：paddr=7071,hash=f90dd98830d807fe530c528feeb562a8 
+delete addr:addr=7071
+delete hash:hash=f90dd98830d807fe530c528feeb562a8
+start_blk_no=200548,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62473
+非重复处理 ，插入新的hash节点
+dele_paddr:72287
+delete_laddr_in_data_node laddr 48255
+del set nand_blk_lpn
+pbn=1129,pin=124,lsn=162736
+pbn=1129,pin=125,lsn=162737
+pbn=1129,pin=126,lsn=162738
+pbn=1129,pin=127,lsn=162739
+start_blk_no=193024,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+插入，ref++insert_laddr_in_node
+hash相同，逻辑地址不同的：ref=979,lpn=48258,ppn=33092,hash=f7e83a4d4fe0a40a14791b5cd57196c4
+已经失效的ppn地址：lpn=48258,ppn=18255
+删除地址的ref：ref=0
+删除的节点信息：paddr=18255,hash=e7a3671b9ec53011e46ce630704e47c5 
+delete addr:addr=18255
+delete hash:hash=e7a3671b9ec53011e46ce630704e47c5
+start_blk_no=193036,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62474
+非重复处理 ，插入新的hash节点
+dele_paddr:18256
+删除data_node节点 start
+delete addr:addr=18256
+delete hash:hash=12447b5ae79f8c6997e081f7e8683470
+删除data_node节点end
+start_blk_no=193048,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+插入，ref++insert_laddr_in_node
+hash相同，逻辑地址不同的：ref=33,lpn=48264,ppn=2067,hash=8b7dc214c022a0cec96663aed8ee1547
+已经失效的ppn地址：lpn=48264,ppn=18257
+删除地址的ref：ref=0
+删除的节点信息：paddr=18257,hash=f90b6c726b39a6bde07d8de8e5956532 
+delete addr:addr=18257
+delete hash:hash=f90b6c726b39a6bde07d8de8e5956532
+start_blk_no=193060,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+插入，ref++insert_laddr_in_node
+hash相同，逻辑地址不同的：ref=664,lpn=48267,ppn=33291,hash=564eef9f85db50cc1c27b87a86d9acd1
+已经失效的ppn地址：lpn=48267,ppn=72291
+删除地址的ref：ref=17
+ 覆盖删除set nand_blk_lpn
+pbn=1129,pin=140,lsn=162784
+pbn=1129,pin=141,lsn=162785
+pbn=1129,pin=142,lsn=162786
+pbn=1129,pin=143,lsn=162787
+start_blk_no=193072,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62475
+非重复处理 ，插入新的hash节点
+dele_paddr:72292
+delete_laddr_in_data_node laddr 48270
+del set nand_blk_lpn
+pbn=1129,pin=144,lsn=162796
+pbn=1129,pin=145,lsn=162797
+pbn=1129,pin=146,lsn=162798
+pbn=1129,pin=147,lsn=162799
+start_blk_no=193084,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+tree_node_tmp!=NULL,有相同的hash在节点中
+插入，ref++insert_laddr_in_node
+hash相同，逻辑地址不同的：ref=25,lpn=48273,ppn=44343,hash=70260e6a9caeed295d4587a1b8e6a2a5
+已经失效的ppn地址：lpn=48273,ppn=72293
+删除地址的ref：ref=17
+ 覆盖删除set nand_blk_lpn
+pbn=1129,pin=148,lsn=162808
+pbn=1129,pin=149,lsn=162809
+pbn=1129,pin=150,lsn=162810
+pbn=1129,pin=151,lsn=162811
+start_blk_no=193096,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62476
+非重复处理 ，插入新的hash节点
+dele_paddr:72294
+delete_laddr_in_data_node laddr 48276
+del set nand_blk_lpn
+pbn=1129,pin=152,lsn=162820
+pbn=1129,pin=153,lsn=162821
+pbn=1129,pin=154,lsn=162822
+pbn=1129,pin=155,lsn=162823
+start_blk_no=193108,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62477
+非重复处理 ，插入新的hash节点
+dele_paddr:72295
+delete_laddr_in_data_node laddr 48279
+del set nand_blk_lpn
+pbn=1129,pin=156,lsn=162832
+pbn=1129,pin=157,lsn=162833
+pbn=1129,pin=158,lsn=162834
+pbn=1129,pin=159,lsn=162835
+start_blk_no=193120,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62478
+非重复处理 ，插入新的hash节点
+dele_paddr:72296
+delete_laddr_in_data_node laddr 48282
+del set nand_blk_lpn
+pbn=1129,pin=160,lsn=162844
+pbn=1129,pin=161,lsn=162845
+pbn=1129,pin=162,lsn=162846
+pbn=1129,pin=163,lsn=162847
+start_blk_no=193132,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62479
+非重复处理 ，插入新的hash节点
+dele_paddr:72297
+delete_laddr_in_data_node laddr 48285
+del set nand_blk_lpn
+pbn=1129,pin=164,lsn=162856
+pbn=1129,pin=165,lsn=162857
+pbn=1129,pin=166,lsn=162858
+pbn=1129,pin=167,lsn=162859
+start_blk_no=193144,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62480
+非重复处理 ，插入新的hash节点
+dele_paddr:29607
+delete_laddr_in_data_node laddr 48288
+del set nand_blk_lpn
+pbn=462,pin=156,lsn=170792
+pbn=462,pin=157,lsn=170793
+pbn=462,pin=158,lsn=170794
+pbn=462,pin=159,lsn=170795
+start_blk_no=193156,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62481
+非重复处理 ，插入新的hash节点
+dele_paddr:72299
+delete_laddr_in_data_node laddr 48291
+del set nand_blk_lpn
+pbn=1129,pin=172,lsn=162880
+pbn=1129,pin=173,lsn=162881
+pbn=1129,pin=174,lsn=162882
+pbn=1129,pin=175,lsn=162883
+start_blk_no=193168,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62482
+非重复处理 ，插入新的hash节点
+dele_paddr:72300
+delete_laddr_in_data_node laddr 48294
+del set nand_blk_lpn
+pbn=1129,pin=176,lsn=162892
+pbn=1129,pin=177,lsn=162893
+pbn=1129,pin=178,lsn=162894
+pbn=1129,pin=179,lsn=162895
+start_blk_no=193180,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62483
+非重复处理 ，插入新的hash节点
+dele_paddr:72301
+delete_laddr_in_data_node laddr 48297
+del set nand_blk_lpn
+pbn=1129,pin=180,lsn=165996
+pbn=1129,pin=181,lsn=165997
+pbn=1129,pin=182,lsn=165998
+pbn=1129,pin=183,lsn=165999
+start_blk_no=193192,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62484
+非重复处理 ，插入新的hash节点
+dele_paddr:72302
+delete_laddr_in_data_node laddr 48300
+del set nand_blk_lpn
+pbn=1129,pin=184,lsn=166008
+pbn=1129,pin=185,lsn=166009
+pbn=1129,pin=186,lsn=166010
+pbn=1129,pin=187,lsn=166011
+start_blk_no=193204,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62485
+非重复处理 ，插入新的hash节点
+dele_paddr:31679
+delete_laddr_in_data_node laddr 6427
+del set nand_blk_lpn
+pbn=494,pin=252,lsn=104648
+pbn=494,pin=253,lsn=104649
+pbn=494,pin=254,lsn=104650
+pbn=494,pin=255,lsn=104651
+start_blk_no=25712,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62486
+非重复处理 ，插入新的hash节点
+dele_paddr:20323
+delete_laddr_in_data_node laddr 41904
+del set nand_blk_lpn
+pbn=317,pin=140,lsn=127696
+pbn=317,pin=141,lsn=127697
+pbn=317,pin=142,lsn=127698
+pbn=317,pin=143,lsn=127699
+start_blk_no=167620,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62487
+非重复处理 ，插入新的hash节点
+dele_paddr:20324
+delete_laddr_in_data_node laddr 41907
+del set nand_blk_lpn
+pbn=317,pin=144,lsn=127708
+pbn=317,pin=145,lsn=127709
+pbn=317,pin=146,lsn=127710
+pbn=317,pin=147,lsn=127711
+start_blk_no=167632,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62488
+非重复处理 ，插入新的hash节点
+dele_paddr:39336
+删除data_node节点 start
+delete addr:addr=39336
+delete hash:hash=87bf3a1f94671e43ebb875b433503f2b
+删除data_node节点end
+start_blk_no=167644,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62489
+非重复处理 ，插入新的hash节点
+dele_paddr:52889
+删除data_node节点 start
+delete addr:addr=52889
+delete hash:hash=ca013f2d75003abe4661ea0c82f8ccee
+删除data_node节点end
+start_blk_no=167656,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62490
+非重复处理 ，插入新的hash节点
+dele_paddr:20325
+delete_laddr_in_data_node laddr 41916
+del set nand_blk_lpn
+pbn=317,pin=148,lsn=134080
+pbn=317,pin=149,lsn=134081
+pbn=317,pin=150,lsn=134082
+pbn=317,pin=151,lsn=134083
+start_blk_no=167668,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62491
+非重复处理 ，插入新的hash节点
+dele_paddr:34021
+delete_laddr_in_data_node laddr 41919
+del set nand_blk_lpn
+pbn=531,pin=148,lsn=245984
+pbn=531,pin=149,lsn=245985
+pbn=531,pin=150,lsn=245986
+pbn=531,pin=151,lsn=245987
+start_blk_no=167680,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62492
+非重复处理 ，插入新的hash节点
+dele_paddr:12740
+delete_laddr_in_data_node laddr 41922
+del set nand_blk_lpn
+pbn=199,pin=16,lsn=182516
+pbn=199,pin=17,lsn=182517
+pbn=199,pin=18,lsn=182518
+pbn=199,pin=19,lsn=182519
+start_blk_no=167692,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62493
+非重复处理 ，插入新的hash节点
+dele_paddr:266
+delete_laddr_in_data_node laddr 41925
+del set nand_blk_lpn
+pbn=4,pin=40,lsn=138912
+pbn=4,pin=41,lsn=138913
+pbn=4,pin=42,lsn=138914
+pbn=4,pin=43,lsn=138915
+start_blk_no=167704,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62494
+非重复处理 ，插入新的hash节点
+dele_paddr:267
+delete_laddr_in_data_node laddr 41928
+del set nand_blk_lpn
+pbn=4,pin=44,lsn=71616
+pbn=4,pin=45,lsn=71617
+pbn=4,pin=46,lsn=71618
+pbn=4,pin=47,lsn=71619
+start_blk_no=167716,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62495
+非重复处理 ，插入新的hash节点
+dele_paddr:268
+delete_laddr_in_data_node laddr 41931
+del set nand_blk_lpn
+pbn=4,pin=48,lsn=129480
+pbn=4,pin=49,lsn=129481
+pbn=4,pin=50,lsn=129482
+pbn=4,pin=51,lsn=129483
+start_blk_no=167728,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62496
+非重复处理 ，插入新的hash节点
+dele_paddr:38803
+delete_laddr_in_data_node laddr 41934
+del set nand_blk_lpn
+pbn=606,pin=76,lsn=148184
+pbn=606,pin=77,lsn=148185
+pbn=606,pin=78,lsn=148186
+pbn=606,pin=79,lsn=148187
+start_blk_no=167740,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62497
+非重复处理 ，插入新的hash节点
+dele_paddr:2502
+删除data_node节点 start
+delete addr:addr=2502
+delete hash:hash=809627e1f256aa95837bc7caf1213521
+删除data_node节点end
+start_blk_no=167752,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62498
+非重复处理 ，插入新的hash节点
+dele_paddr:20331
+delete_laddr_in_data_node laddr 41940
+del set nand_blk_lpn
+pbn=317,pin=172,lsn=127484
+pbn=317,pin=173,lsn=127485
+pbn=317,pin=174,lsn=127486
+pbn=317,pin=175,lsn=127487
+start_blk_no=167764,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62499
+非重复处理 ，插入新的hash节点
+dele_paddr:2503
+delete_laddr_in_data_node laddr 41943
+del set nand_blk_lpn
+pbn=39,pin=28,lsn=186320
+pbn=39,pin=29,lsn=186321
+pbn=39,pin=30,lsn=186322
+pbn=39,pin=31,lsn=186323
+start_blk_no=167776,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62500
+非重复处理 ，插入新的hash节点
+dele_paddr:1210
+delete_laddr_in_data_node laddr 41946
+del set nand_blk_lpn
+pbn=18,pin=232,lsn=21596
+pbn=18,pin=233,lsn=21597
+pbn=18,pin=234,lsn=21598
+pbn=18,pin=235,lsn=21599
+start_blk_no=167788,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62501
+非重复处理 ，插入新的hash节点
+dele_paddr:44031
+delete_laddr_in_data_node laddr 41949
+del set nand_blk_lpn
+pbn=687,pin=252,lsn=167488
+pbn=687,pin=253,lsn=167489
+pbn=687,pin=254,lsn=167490
+pbn=687,pin=255,lsn=167491
+start_blk_no=167800,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62502
+非重复处理 ，插入新的hash节点
+dele_paddr:2504
+delete_laddr_in_data_node laddr 41952
+del set nand_blk_lpn
+pbn=39,pin=32,lsn=137364
+pbn=39,pin=33,lsn=137365
+pbn=39,pin=34,lsn=137366
+pbn=39,pin=35,lsn=137367
+start_blk_no=167812,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62503
+非重复处理 ，插入新的hash节点
+dele_paddr:38967
+delete_laddr_in_data_node laddr 41955
+del set nand_blk_lpn
+pbn=608,pin=220,lsn=238648
+pbn=608,pin=221,lsn=238649
+pbn=608,pin=222,lsn=238650
+pbn=608,pin=223,lsn=238651
+start_blk_no=167824,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62504
+非重复处理 ，插入新的hash节点
+dele_paddr:2505
+删除data_node节点 start
+delete addr:addr=2505
+delete hash:hash=3030035a60d01a97822fbb38164ee090
+删除data_node节点end
+start_blk_no=167836,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62505
+非重复处理 ，插入新的hash节点
+dele_paddr:33092
+delete_laddr_in_data_node laddr 41961
+del set nand_blk_lpn
+pbn=517,pin=16,lsn=27908
+pbn=517,pin=17,lsn=27909
+pbn=517,pin=18,lsn=27910
+pbn=517,pin=19,lsn=27911
+start_blk_no=167848,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62506
+非重复处理 ，插入新的hash节点
+dele_paddr:271
+delete_laddr_in_data_node laddr 41964
+del set nand_blk_lpn
+pbn=4,pin=60,lsn=195772
+pbn=4,pin=61,lsn=195773
+pbn=4,pin=62,lsn=195774
+pbn=4,pin=63,lsn=195775
+start_blk_no=167860,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62507
+非重复处理 ，插入新的hash节点
+dele_paddr:272
+delete_laddr_in_data_node laddr 41967
+del set nand_blk_lpn
+pbn=4,pin=64,lsn=59336
+pbn=4,pin=65,lsn=59337
+pbn=4,pin=66,lsn=59338
+pbn=4,pin=67,lsn=59339
+start_blk_no=167872,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62508
+非重复处理 ，插入新的hash节点
+dele_paddr:273
+delete_laddr_in_data_node laddr 41970
+del set nand_blk_lpn
+pbn=4,pin=68,lsn=241856
+pbn=4,pin=69,lsn=241857
+pbn=4,pin=70,lsn=241858
+pbn=4,pin=71,lsn=241859
+start_blk_no=167884,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62509
+非重复处理 ，插入新的hash节点
+dele_paddr:21646
+delete_laddr_in_data_node laddr 41973
+del set nand_blk_lpn
+pbn=338,pin=56,lsn=166560
+pbn=338,pin=57,lsn=166561
+pbn=338,pin=58,lsn=166562
+pbn=338,pin=59,lsn=166563
+start_blk_no=167896,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62510
+非重复处理 ，插入新的hash节点
+dele_paddr:22342
+删除data_node节点 start
+delete addr:addr=22342
+delete hash:hash=b3987eb285a11d5345a2523c06080bdc
+删除data_node节点end
+start_blk_no=167908,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62511
+非重复处理 ，插入新的hash节点
+dele_paddr:50412
+删除data_node节点 start
+delete addr:addr=50412
+delete hash:hash=02a683389ec2d77edcb5c13870979ccd
+删除data_node节点end
+start_blk_no=167920,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62512
+非重复处理 ，插入新的hash节点
+dele_paddr:50414
+删除data_node节点 start
+delete addr:addr=50414
+delete hash:hash=cf6efe4ef494f9b8da5982ecde2035d8
+删除data_node节点end
+start_blk_no=167932,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62513
+非重复处理 ，插入新的hash节点
+dele_paddr:276
+delete_laddr_in_data_node laddr 41985
+del set nand_blk_lpn
+pbn=4,pin=80,lsn=205240
+pbn=4,pin=81,lsn=205241
+pbn=4,pin=82,lsn=205242
+pbn=4,pin=83,lsn=205243
+start_blk_no=167944,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62514
+非重复处理 ，插入新的hash节点
+dele_paddr:277
+delete_laddr_in_data_node laddr 41988
+del set nand_blk_lpn
+pbn=4,pin=84,lsn=118820
+pbn=4,pin=85,lsn=118821
+pbn=4,pin=86,lsn=118822
+pbn=4,pin=87,lsn=118823
+start_blk_no=167956,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62515
+非重复处理 ，插入新的hash节点
+dele_paddr:50010
+删除data_node节点 start
+delete addr:addr=50010
+delete hash:hash=e149f3cfe253a8981d848015aa8f2022
+删除data_node节点end
+start_blk_no=167968,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62516
+非重复处理 ，插入新的hash节点
+dele_paddr:50413
+删除data_node节点 start
+delete addr:addr=50413
+delete hash:hash=cfedd1819af9c1031d7674cf2c8faaa1
+删除data_node节点end
+start_blk_no=167980,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62517
+非重复处理 ，插入新的hash节点
+dele_paddr:295
+delete_laddr_in_data_node laddr 41997
+del set nand_blk_lpn
+pbn=4,pin=156,lsn=17412
+pbn=4,pin=157,lsn=17413
+pbn=4,pin=158,lsn=17414
+pbn=4,pin=159,lsn=17415
+start_blk_no=167992,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62518
+非重复处理 ，插入新的hash节点
+dele_paddr:296
+delete_laddr_in_data_node laddr 42000
+del set nand_blk_lpn
+pbn=4,pin=160,lsn=239524
+pbn=4,pin=161,lsn=239525
+pbn=4,pin=162,lsn=239526
+pbn=4,pin=163,lsn=239527
+start_blk_no=168004,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62519
+非重复处理 ，插入新的hash节点
+dele_paddr:22360
+delete_laddr_in_data_node laddr 42003
+del set nand_blk_lpn
+pbn=349,pin=96,lsn=209740
+pbn=349,pin=97,lsn=209741
+pbn=349,pin=98,lsn=209742
+pbn=349,pin=99,lsn=209743
+start_blk_no=168016,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62520
+非重复处理 ，插入新的hash节点
+dele_paddr:20343
+delete_laddr_in_data_node laddr 42006
+del set nand_blk_lpn
+pbn=317,pin=220,lsn=152420
+pbn=317,pin=221,lsn=152421
+pbn=317,pin=222,lsn=152422
+pbn=317,pin=223,lsn=152423
+start_blk_no=168028,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62521
+非重复处理 ，插入新的hash节点
+dele_paddr:20344
+delete_laddr_in_data_node laddr 42009
+del set nand_blk_lpn
+pbn=317,pin=224,lsn=128116
+pbn=317,pin=225,lsn=128117
+pbn=317,pin=226,lsn=128118
+pbn=317,pin=227,lsn=128119
+start_blk_no=168040,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62522
+非重复处理 ，插入新的hash节点
+dele_paddr:20345
+delete_laddr_in_data_node laddr 42012
+del set nand_blk_lpn
+pbn=317,pin=228,lsn=128128
+pbn=317,pin=229,lsn=128129
+pbn=317,pin=230,lsn=128130
+pbn=317,pin=231,lsn=128131
+start_blk_no=168052,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62523
+非重复处理 ，插入新的hash节点
+dele_paddr:20346
+delete_laddr_in_data_node laddr 42015
+del set nand_blk_lpn
+pbn=317,pin=232,lsn=128140
+pbn=317,pin=233,lsn=128141
+pbn=317,pin=234,lsn=128142
+pbn=317,pin=235,lsn=128143
+start_blk_no=168064,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62524
+非重复处理 ，插入新的hash节点
+dele_paddr:20347
+delete_laddr_in_data_node laddr 42018
+del set nand_blk_lpn
+pbn=317,pin=236,lsn=127796
+pbn=317,pin=237,lsn=127797
+pbn=317,pin=238,lsn=127798
+pbn=317,pin=239,lsn=127799
+start_blk_no=168076,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62525
+非重复处理 ，插入新的hash节点
+dele_paddr:2067
+delete_laddr_in_data_node laddr 42021
+del set nand_blk_lpn
+pbn=32,pin=76,lsn=195500
+pbn=32,pin=77,lsn=195501
+pbn=32,pin=78,lsn=195502
+pbn=32,pin=79,lsn=195503
+start_blk_no=168088,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62526
+非重复处理 ，插入新的hash节点
+dele_paddr:33096
+delete_laddr_in_data_node laddr 42024
+del set nand_blk_lpn
+pbn=517,pin=32,lsn=175528
+pbn=517,pin=33,lsn=175529
+pbn=517,pin=34,lsn=175530
+pbn=517,pin=35,lsn=175531
+start_blk_no=168100,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=62527
+非重复处理 ，插入新的hash节点
+dele_paddr:67690
+删除data_node节点 start
+delete addr:addr=67690
+delete hash:hash=b187133dad1d989a1f891cb2343bfa9a
+删除data_node节点end
+start_blk_no=168112,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+触发最少的空闲blk数目: 3
+free_blk_num:3
+*********************************************gc_run start************************************************
+无效页最多的blk号=73，最多的无效页计数:208
+victim_blk_no:73
+delete addr:addr=4685
+page num in blk:13，失效的物理块地址：4685
+ 新的ppn地址为41205
+delete addr:addr=4694
+page num in blk:22，失效的物理块地址：4694
+ 新的ppn地址为41206
+delete addr:addr=4695
+page num in blk:23，失效的物理块地址：4695
+ 新的ppn地址为41207
+delete addr:addr=4710
+page num in blk:38，失效的物理块地址：4710
+ 新的ppn地址为41208
+delete addr:addr=4711
+page num in blk:39，失效的物理块地址：4711
+ 新的ppn地址为41209
+delete addr:addr=4712
+page num in blk:40，失效的物理块地址：4712
+ 新的ppn地址为41210
+delete addr:addr=4713
+page num in blk:41，失效的物理块地址：4713
+ 新的ppn地址为41211
+delete addr:addr=4715
+page num in blk:43，失效的物理块地址：4715
+ 新的ppn地址为41212
+delete addr:addr=4718
+page num in blk:46，失效的物理块地址：4718
+ 新的ppn地址为41213
+delete addr:addr=4726
+page num in blk:54，失效的物理块地址：4726
+ 新的ppn地址为41214
+delete addr:addr=4727
+page num in blk:55，失效的物理块地址：4727
+ 新的ppn地址为41215
+delete addr:addr=4730
+page num in blk:58，失效的物理块地址：4730
+ 新的ppn地址为36096
+nand_erase
+gc_run end
+*********************************************gc_run start************************************************
+无效页最多的blk号=258，最多的无效页计数:208
+victim_blk_no:258
+delete addr:addr=16517
+page num in blk:5，失效的物理块地址：16517
+ 新的ppn地址为36097
+delete addr:addr=16519
+page num in blk:7，失效的物理块地址：16519
+ 新的ppn地址为36098
+delete addr:addr=16529
+page num in blk:17，失效的物理块地址：16529
+ 新的ppn地址为36099
+delete addr:addr=16530
+page num in blk:18，失效的物理块地址：16530
+ 新的ppn地址为36100
+delete addr:addr=16533
+page num in blk:21，失效的物理块地址：16533
+ 新的ppn地址为36101
+delete addr:addr=16537
+page num in blk:25，失效的物理块地址：16537
+ 新的ppn地址为36102
+delete addr:addr=16539
+page num in blk:27，失效的物理块地址：16539
+ 新的ppn地址为36103
+delete addr:addr=16541
+page num in blk:29，失效的物理块地址：16541
+ 新的ppn地址为36104
+delete addr:addr=16547
+page num in blk:35，失效的物理块地址：16547
+ 新的ppn地址为36105
+delete addr:addr=16551
+page num in blk:39，失效的物理块地址：16551
+ 新的ppn地址为36106
+delete addr:addr=16564
+page num in blk:52，失效的物理块地址：16564
+ 新的ppn地址为36107
+delete addr:addr=16568
+page num in blk:56，失效的物理块地址：16568
+ 新的ppn地址为36108
+nand_erase
+gc_run end
+ppn=4672
+非重复处理 ，插入新的hash节点
+dele_paddr:67691
+删除data_node节点 start
+delete addr:addr=67691
+delete hash:hash=7a803e842c9d78c465b30571a2d072d5
+删除data_node节点end
+start_blk_no=168124,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=4673
+非重复处理 ，插入新的hash节点
+dele_paddr:42696
+delete_laddr_in_data_node laddr 42033
+del set nand_blk_lpn
+pbn=667,pin=32,lsn=58424
+pbn=667,pin=33,lsn=58425
+pbn=667,pin=34,lsn=58426
+pbn=667,pin=35,lsn=58427
+start_blk_no=168136,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=4674
+非重复处理 ，插入新的hash节点
+dele_paddr:42697
+delete_laddr_in_data_node laddr 42036
+del set nand_blk_lpn
+pbn=667,pin=36,lsn=226780
+pbn=667,pin=37,lsn=226781
+pbn=667,pin=38,lsn=226782
+pbn=667,pin=39,lsn=226783
+start_blk_no=168148,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=4675
+非重复处理 ，插入新的hash节点
+dele_paddr:59771
+delete_laddr_in_data_node laddr 42039
+del set nand_blk_lpn
+pbn=933,pin=236,lsn=227612
+pbn=933,pin=237,lsn=227613
+pbn=933,pin=238,lsn=227614
+pbn=933,pin=239,lsn=227615
+start_blk_no=168160,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=4676
+非重复处理 ，插入新的hash节点
+dele_paddr:22353
+删除data_node节点 start
+delete addr:addr=22353
+delete hash:hash=bb006c1dec86c652a1e8fd606b9a1bc6
+删除data_node节点end
+start_blk_no=168172,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=4677
+非重复处理 ，插入新的hash节点
+dele_paddr:38966
+delete_laddr_in_data_node laddr 42045
+del set nand_blk_lpn
+pbn=608,pin=216,lsn=31668
+pbn=608,pin=217,lsn=31669
+pbn=608,pin=218,lsn=31670
+pbn=608,pin=219,lsn=31671
+start_blk_no=168184,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+send_flash_request start
+ppn=4678
+非重复处理 ，插入新的hash节点
+dele_paddr:2530
+删除data_node节点 start
+delete addr:addr=2530
+delete hash:hash=49b9feb8b1daaac2455bfe05540f02bb
+删除data_node节点end
+start_blk_no=168196,block_cnt=0,total_util_sect_num=262144
+send_flash_request end
+disksim_run_simulation(): simulated 18704359 events
+ref_1_num=0,ref_2_num=0,ref_3_num=0,ref_num=0
+ref_4_num=0,ref_5_num=0,ref_high_num=0
+------------------------
+write_sum:1171552,dedup_sum:694599,dedup_ratio = 0.407112
+same hash_laddr num:634
+has run over
